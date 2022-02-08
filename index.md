@@ -249,7 +249,7 @@ For any questions, please contact **Yogesh Rawat [yogesh@crcv.ucf.edu]** and <br
       <h4><u>OpenGuide</u> </h4>
         <iframe src="https://www.youtube.com/embed/mGq9sL1spzc" frameborder="0"
           allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-          style="width:100%; clip-path:inset(1px 1px);" allowfullscreen></iframe>
+          style="width:100%; clip-path:inset(1px 1px);height: 40vh" allowfullscreen></iframe>
     </div>
     <div style="width:5%; float: left;">
         <p></p>
@@ -260,7 +260,7 @@ For any questions, please contact **Yogesh Rawat [yogesh@crcv.ucf.edu]** and <br
       
         <iframe src="https://www.youtube.com/embed/z_YwWIZWg58" frameborder="0"
           allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-          style="width:100%; clip-path:inset(1px 1px);" allowfullscreen></iframe>
+          style="width:100%; clip-path:inset(1px 1px); height: 40vh" allowfullscreen></iframe>
       
     </div>
   </div>
