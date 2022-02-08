@@ -244,20 +244,23 @@ The challenge deadlines are as follows:
 For any questions, please contact **Yogesh Rawat [yogesh@crcv.ucf.edu]** and <br>**Vibhav Vineet [Vibhav.Vineet@microsoft.com]**.
 
 ## Videos
-<div align="center">
-    <div align="center">
+<div style=" float: center;">
+    <div align="center" style="width:45%; float: left;">
       <h4><u>OpenGuide</u> </h4>
         <iframe src="https://www.youtube.com/embed/mGq9sL1spzc" frameborder="0"
           allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-          style="width:45%; clip-path:inset(1px 1px);" allowfullscreen></iframe>
+          style="width:100%; clip-path:inset(1px 1px);" allowfullscreen></iframe>
     </div>
-
-    <div align="center">
-      <h4><u>X-World</u> </h4>
+    <div style="width:5%; float: left;">
+        <p></p>
+    </div>
+    
+    <div align="center"  style="width:45%; float: left;">
+      <h4 ><u>X-World</u> </h4>
       
         <iframe src="https://www.youtube.com/embed/z_YwWIZWg58" frameborder="0"
           allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-          style="width:45%; clip-path:inset(1px 1px);" allowfullscreen></iframe>
+          style="width:100%; clip-path:inset(1px 1px);" allowfullscreen></iframe>
       
     </div>
   </div>
