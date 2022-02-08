@@ -244,23 +244,21 @@ The challenge deadlines are as follows:
 For any questions, please contact **Yogesh Rawat [yogesh@crcv.ucf.edu]** and <br>**Vibhav Vineet [Vibhav.Vineet@microsoft.com]**.
 
 ## Videos
-<div class="row" style="text-align:center">
-    <div class="col-xs-6 text-center">
+<div align="center">
+    <div align="center">
       <h4><u>OpenGuide</u> </h4>
-      <div class="embed-responsive embed-responsive-16by9" style="text-align:center">
-        <iframe class="embed-responsive-item text-center" src="https://www.youtube.com/embed/mGq9sL1spzc" frameborder="0"
+        <iframe src="https://www.youtube.com/embed/mGq9sL1spzc" frameborder="0"
           allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-          style="width:100%; clip-path:inset(1px 1px);" allowfullscreen></iframe>
-      </div>
+          style="width:45%; clip-path:inset(1px 1px);" allowfullscreen></iframe>
     </div>
 
-    <div class="col-xs-6 text-center">
+    <div align="center">
       <h4><u>X-World</u> </h4>
-      <div class="embed-responsive embed-responsive-16by9" style="text-align:center">
-        <iframe class="embed-responsive-item text-center" src="https://www.youtube.com/embed/z_YwWIZWg58" frameborder="0"
+      
+        <iframe src="https://www.youtube.com/embed/z_YwWIZWg58" frameborder="0"
           allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-          style="width:100%; clip-path:inset(1px 1px);" allowfullscreen></iframe>
-      </div>
+          style="width:45%; clip-path:inset(1px 1px);" allowfullscreen></iframe>
+      
     </div>
   </div>
 
