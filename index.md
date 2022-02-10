@@ -13,11 +13,13 @@ Most of the real-world data is sequential and there is always a distribution shi
 <img style="float: left;margin-right: 7px;" src="pics/placeholder.jpg" alt="name_1" width="200"/>
 <div style="text-align: justify">
 <a href="https://staging-temp-site.github.io/staging-temp-site.gitub.io/">Lecturer</a> [description]
- <br> <\br>
- <br> <\br>
- <br> <\br>
- <br> <\br>
- <br> <\br>
+<br> 
+ <br> 
+ <br> 
+ <br> 
+ <br>
+ <br> 
+ <br> 
 </div>
 
 
@@ -26,11 +28,13 @@ Most of the real-world data is sequential and there is always a distribution shi
 <img style="float: left;margin-right: 7px;" src="pics/placeholder.jpg" alt="name_2" width="200"/>
 <div style="text-align: justify">
 <a href="https://staging-temp-site.github.io/staging-temp-site.gitub.io/">Lecturer</a> [description]
- <br> <\br>
- <br> <\br>
- <br> <\br>
- <br> <\br>
- <br> <\br>
+<br> 
+ <br> 
+ <br> 
+ <br> 
+ <br>
+ <br> 
+ <br> 
 </div>
 
 
@@ -39,11 +43,13 @@ Most of the real-world data is sequential and there is always a distribution shi
 <img style="float: left;margin-right: 7px;" src="pics/placeholder.jpg" alt="name_3" width="200"/>
 <div style="text-align: justify">
 <a href="https://staging-temp-site.github.io/staging-temp-site.gitub.io/">Lecturer</a> [description]
- <br> <\br>
- <br> <\br>
- <br> <\br>
- <br> <\br>
- <br> <\br>
+<br> 
+ <br> 
+ <br> 
+ <br> 
+ <br>
+ <br> 
+ <br> 
 </div>
 
 
@@ -52,11 +58,13 @@ Most of the real-world data is sequential and there is always a distribution shi
 <img style="float: left;margin-right: 7px;" src="pics/placeholder.jpg" alt="name_4" width="200"/>
 <div style="text-align: justify">
 <a href="https://staging-temp-site.github.io/staging-temp-site.gitub.io/">Lecturer</a> [description]
- <br> <\br>
- <br> <\br>
- <br> <\br>
- <br> <\br>
- <br> <\br>
+<br> 
+ <br> 
+ <br> 
+ <br> 
+ <br>
+ <br> 
+ <br> 
 </div>
 
 
@@ -65,11 +73,13 @@ Most of the real-world data is sequential and there is always a distribution shi
 <img style="float: left;margin-right: 7px;" src="pics/placeholder.jpg" alt="name_5" width="200"/>
 <div style="text-align: justify">
 <a href="https://staging-temp-site.github.io/staging-temp-site.gitub.io/">Lecturer</a> [description]
- <br> <\br>
- <br> <\br>
- <br> <\br>
- <br> <\br>
- <br> <\br>
+<br> 
+ <br> 
+ <br> 
+ <br> 
+ <br>
+ <br> 
+ <br> 
 </div>
 
 
@@ -78,11 +88,13 @@ Most of the real-world data is sequential and there is always a distribution shi
 <img style="float: left;margin-right: 7px;" src="pics/placeholder.jpg" alt="name_6" width="200"/>
 <div style="text-align: justify">
 <a href="https://staging-temp-site.github.io/staging-temp-site.gitub.io/">Lecturer</a> [description]
- <br> <\br>
- <br> <\br>
- <br> <\br>
- <br> <\br>
- <br> <\br>
+ <br> 
+ <br> 
+ <br> 
+ <br> 
+ <br>
+ <br> 
+ <br> 
 </div>
 
 
