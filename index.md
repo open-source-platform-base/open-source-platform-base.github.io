@@ -12,7 +12,7 @@ Most of the real-world data is sequential and there is always a distribution shi
 
 <img style="float: left;margin-right: 7px;" src="pics/placeholder.jpg" alt="name_1" width="200"/>
 <div style="text-align: justify">
-<a href="http://www.cs.cmu.edu/~deva/">Deva Ramanan</a> is a professor in the Robotics Institute at Carnegie- Mellon University and the director of the CMU Argo AI Center for Autonomous Vehicle Research. His research interests span computer vision and machine learning, with a focus on visual recognition. He was awarded the David Marr Prize in 2009, the PASCAL VOC Lifetime Achievement Prize in 2010, the IEEE PAMI Young Researcher Award in 2012, named one of Popular Science’s Brilliant 10 researchers in 2012, named a National Academy of Sciences Kavli Fellow in 2013, won the Longuet-Higgins Prize in 2018 for fundamental contributions in computer vision, and was recognized for best paper awards in CVPR 2019, ECCV 2020, and ICCV 2021. He served as the program chair of the IEEE Computer Vision and Pattern Recognition (CVPR) 2018.
+<a href="https://staging-temp-site.github.io/staging-temp-site.gitub.io/">Lecturer</a> [description]
 </div>
 
 
@@ -20,7 +20,7 @@ Most of the real-world data is sequential and there is always a distribution shi
 
 <img style="float: left;margin-right: 7px;" src="pics/placeholder.jpg" alt="name_2" width="200"/>
 <div style="text-align: justify">
-<a href="https://datascience.columbia.edu/people/carl-vondrick/">Carl Vondrick</a> is an assistant professor of computer science at Columbia University. His research focuses on computer vision and machine learning. His research is supported by the NSF, DARPA, Amazon, and Toyota, and his work has appeared on the national news, such as CNN, NPR, the Associated Press, Stephen Colbert’s television show, as well as some children’s magazines. He received the 2021 NSF CAREER Award, the 2021 Toyota Young Faculty Award, and the 2018 Amazon Research Award. Previously, he was a Research Scientist at Google and he received his PhD from MIT in 2017.
+<a href="https://staging-temp-site.github.io/staging-temp-site.gitub.io/">Lecturer</a> [description]
 </div>
 
 
@@ -28,7 +28,7 @@ Most of the real-world data is sequential and there is always a distribution shi
 
 <img style="float: left;margin-right: 7px;" src="pics/placeholder.jpg" alt="name_3" width="200"/>
 <div style="text-align: justify">
-<a href="https://www.cs.unc.edu/~mbansal/">Mohit Bansal</a> is the John R. Louise S. Parker Associate Professor and the Director of the MURGe-Lab (UNC-NLP Group) in the CS department at UNC Chapel Hill. He received his PhD from UC Berkeley in 2013. His research expertise is in multimodal, grounded, and embodied NLP, human-like language generation and QA/dialogue, and interpretable and generalizable deep learning. He is a recipient of the 2020 IJCAI Early CAREER Spotlight, 2019 DARPA Director’s fellowship, 2019 Google Focused Research Award, 2019 Microsoft Investigator Fellowship, and 2019 NSF CAREER Award. He has organized several workshops at the primary NLP and vision conferences.
+<a href="https://staging-temp-site.github.io/staging-temp-site.gitub.io/">Lecturer</a> [description]
 </div>
 
 
@@ -36,7 +36,7 @@ Most of the real-world data is sequential and there is always a distribution shi
 
 <img style="float: left;margin-right: 7px;" src="pics/placeholder.jpg" alt="name_4" width="200"/>
 <div style="text-align: justify">
-<a href="https://saynaebrahimi.github.io/">Sayna Ebrahimi</a> is a research scientist at Google. Previously she was a postdoctoral scholar at UC Berkeley working with Trevor Darrell. She also received her PhD from UC Berkeley where she double majored in Computer Science and Mechanical Engineering advised by Trevor Darrell in EECS and David Steigmann in the ME department. Her research lies at the intersection of computer vision and machine learning with specialization in continual learning, active learning, and test-time adaptation. She has spent time as a research intern at Facebook AI Research and NVIDIA. She has been awarded the NASA-EPSCoR fellowship and UC Berkeley Otto and Herta F. Kornei Endowment fellowship. She has also co-organized the Workshop on Continual Learning at ICML 2020 and Women in Computer Vision workshop at CVPR 2019.
+<a href="https://staging-temp-site.github.io/staging-temp-site.gitub.io/">Lecturer</a> [description]
 </div>
 
 
@@ -44,7 +44,7 @@ Most of the real-world data is sequential and there is always a distribution shi
 
 <img style="float: left;margin-right: 7px;" src="pics/placeholder.jpg" alt="name_5" width="200"/>
 <div style="text-align: justify">
-<a href="http://www.gatsby.ucl.ac.uk/~balaji/">Balaji Lakshminarayanan</a> is a staff research scientist at Google Brain in Mountain View (USA), working on Machine Learning and its applications. His research interests are in scalable, probabilistic machine learning. Dr. Lakshminarayanan’s PhD thesis was focused on exploring (and exploiting :) connections between neat mathematical ideas in (nonparametric) Bayesian land and computationally efficient tricks in decision tree land, to get the best of both worlds. More recently, he has focused on probabilistic deep learning: uncertainty and robustness in deep learning, out-of-distribution robustness of generative models, deep generative models including generative adversarial networks (GANs), normalizing flows and variational auto-encoders (VAEs), and applying probabilistic deep learning ideas in healthcare and Google products.
+<a href="https://staging-temp-site.github.io/staging-temp-site.gitub.io/">Lecturer</a> [description]
 </div>
 
 
@@ -52,7 +52,7 @@ Most of the real-world data is sequential and there is always a distribution shi
 
 <img style="float: left;margin-right: 7px;" src="pics/placeholder.jpg" alt="name_6" width="200"/>
 <div style="text-align: justify">
-<a href="https://homes.cs.washington.edu/~hannaneh/">Hannaneh Hajishirzi</a> is an assistant professor in the Paul G. Allen School of Computer Science Engineering at the University of Washington and a Research Fellow at the Allen Institute for AI. Her research spans different areas in NLP and AI, focusing on developing machine learning algorithms that represent, comprehend, and reason about diverse forms of data at large scale. Applications for these algorithms include question answering, reading comprehension, representation learning, knowledge extraction, and conversational dialogue. Hanna received her PhD from University of Illinois and spent a year as a postdoc at Disney Research and CMU.
+<a href="https://staging-temp-site.github.io/staging-temp-site.gitub.io/">Lecturer</a> [description]
 </div>
 
 
@@ -108,7 +108,7 @@ The challenge deadlines are as follows:
 <div style="display: flex">
   <div style="width:22.5%">
     <a href="http://vibhavvineet.info">
-    <img alt="Vibhav Vineet" src="pics/vibhav.png">
+    <img alt="name_7" src="pics/placeholder.jpg">
     </a><br>
     <a href="http://vibhavvineet.info">Vibhav Vineet</a><br>
     Microsoft Research
@@ -119,7 +119,7 @@ The challenge deadlines are as follows:
    
   <div style="width:22.5%">
     <a href="https://www.crcv.ucf.edu/person/rawat/">
-    <img alt="name_7" src="pics/placeholder.jpg">
+    <img alt="name_8" src="pics/placeholder.jpg">
     </a><br>
   <a href="https://www.crcv.ucf.edu/person/rawat/">Yogesh Rawat</a><br>
     CRCV, University of Central Florida (UCF)
@@ -130,7 +130,7 @@ The challenge deadlines are as follows:
    
   <div style="width:22.5%">
     <a href="https://www.microsoft.com/en-us/research/people/hpalangi">
-    <img alt="name_8" src="pics/placeholder.jpg">
+    <img alt="name_9" src="pics/placeholder.jpg">
     </a><br>
   <a href="https://www.microsoft.com/en-us/research/people/hpalangi">Hamid Palangi</a><br>
     Microsoft Research
@@ -141,7 +141,7 @@ The challenge deadlines are as follows:
    
   <div style="width:22.5%">
     <a href="https://www.crcv.ucf.edu/person/mubarak-shah">
-    <img alt="name_9" src="pics/placeholder.jpg">
+    <img alt="name_10" src="pics/placeholder.jpg">
     </a><br>
   <a href="https://www.crcv.ucf.edu/person/mubarak-shah">Mubarak Shah</a><br>
     CRCV, University of Central Florida (UCF)
@@ -151,7 +151,7 @@ The challenge deadlines are as follows:
 <div style="display: flex">
   <div style="width:22.5%">
     <a href="https://xinw.ai/">
-    <img alt="name_10" src="pics/placeholder.jpg">
+    <img alt="name_11" src="pics/placeholder.jpg">
     </a><br>
     <a href="https://xinw.ai/">Xin Wang</a><br>
     Microsoft Research
@@ -162,7 +162,7 @@ The challenge deadlines are as follows:
   
   <div style="width:22.5%">
     <a href="https://scholar.google.com/citations?user=15YqUQUAAAAJ&hl=en&oi=ao">
-    <img alt="name_11" src="pics/placeholder.jpg">
+    <img alt="name_12" src="pics/placeholder.jpg">
     </a><br>
   <a href="https://scholar.google.com/citations?user=15YqUQUAAAAJ&hl=en&oi=ao">Shruti Vyas</a><br>
     CRCV, University of Central Florida (UCF)
@@ -173,7 +173,7 @@ The challenge deadlines are as follows:
   
   <div style="width:22.5%">
     <a href="https://saynaebrahimi.github.io">
-    <img alt="name_12" src="pics/placeholder.jpg">
+    <img alt="name_13" src="pics/placeholder.jpg">
     </a><br>
   <a href="https://saynaebrahimi.github.io">Sayna Ebrahimi</a><br>
     Google Cloud AI
@@ -184,7 +184,7 @@ The challenge deadlines are as follows:
   
   <div style="width:22.5%">
     <a href="https://www.cs.unc.edu/~mbansal">
-    <img alt="name_13" src="pics/placeholder.jpg">
+    <img alt="name_14" src="pics/placeholder.jpg">
     </a><br>
   <a href="https://www.cs.unc.edu/~mbansal">Mohit Bansal</a><br>
     University of North Carolina (UNC) Chapel Hill
@@ -197,7 +197,7 @@ The challenge deadlines are as follows:
 <div style="display: flex">
   <div style="width:22.5%">
     <a href="https://www.cs.ubc.ca/~murphyk/">
-    <img alt="name_14" src="pics/placeholder.jpg">
+    <img alt="name_15" src="pics/placeholder.jpg">
     </a><br>
     <a href="https://www.cs.ubc.ca/~murphyk/">Kevin Murphy</a><br>
     Google, USA
@@ -208,7 +208,7 @@ The challenge deadlines are as follows:
    
   <div style="width:22.5%">
     <a href="https://homes.cs.washington.edu/~yejin/">
-    <img alt="name_15" src="pics/placeholder.jpg">
+    <img alt="name_16" src="pics/placeholder.jpg">
     </a><br>
   <a href="https://homes.cs.washington.edu/~yejin/">Yejin Choi</a><br>
     University of Washington, USA
