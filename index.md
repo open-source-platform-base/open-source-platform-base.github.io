@@ -255,13 +255,13 @@ For any questions, please contact **Yogesh Rawat [yogesh@crcv.ucf.edu]** and <br
         <p></p>
     </div>
     
-    <div align="center"  style="width:45%; float: left;">
+    <!--div align="center"  style="width:45%; float: left;">
       <h4 ><u>X-World</u> </h4>
       
         <iframe src="https://www.youtube.com/embed/z_YwWIZWg58" frameborder="0"
           allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
           style="width:100%; clip-path:inset(1px 1px); height: 30vh" allowfullscreen></iframe>
       
-    </div>
+    </div-->
   </div>
 
