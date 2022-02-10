@@ -8,51 +8,81 @@ Most of the real-world data is sequential and there is always a distribution shi
 </div>
 
 # Invited Speakers
-**Talk 1: Open world recognition and distribution shifts in videos**
+**Talk 1: Title**
 
 <img style="float: left;margin-right: 7px;" src="pics/placeholder.jpg" alt="name_1" width="200"/>
 <div style="text-align: justify">
 <a href="https://staging-temp-site.github.io/staging-temp-site.gitub.io/">Lecturer</a> [description]
+ <br> <\br>
+ <br> <\br>
+ <br> <\br>
+ <br> <\br>
+ <br> <\br>
 </div>
 
 
-**Talk 2: Predictive models and their link to robustness**
+**Talk 2:  Title**
 
 <img style="float: left;margin-right: 7px;" src="pics/placeholder.jpg" alt="name_2" width="200"/>
 <div style="text-align: justify">
 <a href="https://staging-temp-site.github.io/staging-temp-site.gitub.io/">Lecturer</a> [description]
+ <br> <\br>
+ <br> <\br>
+ <br> <\br>
+ <br> <\br>
+ <br> <\br>
 </div>
 
 
-**Talk 3: Robust multimodal learning**
+**Talk 3: Title**
 
 <img style="float: left;margin-right: 7px;" src="pics/placeholder.jpg" alt="name_3" width="200"/>
 <div style="text-align: justify">
 <a href="https://staging-temp-site.github.io/staging-temp-site.gitub.io/">Lecturer</a> [description]
+ <br> <\br>
+ <br> <\br>
+ <br> <\br>
+ <br> <\br>
+ <br> <\br>
 </div>
 
 
-**Talk 4: Robustness in continual learning**
+**Talk 4: Title**
 
 <img style="float: left;margin-right: 7px;" src="pics/placeholder.jpg" alt="name_4" width="200"/>
 <div style="text-align: justify">
 <a href="https://staging-temp-site.github.io/staging-temp-site.gitub.io/">Lecturer</a> [description]
+ <br> <\br>
+ <br> <\br>
+ <br> <\br>
+ <br> <\br>
+ <br> <\br>
 </div>
 
 
-**Talk 5: Uncertainty and robustness in deep learning**
+**Talk 5: Title**
 
 <img style="float: left;margin-right: 7px;" src="pics/placeholder.jpg" alt="name_5" width="200"/>
 <div style="text-align: justify">
 <a href="https://staging-temp-site.github.io/staging-temp-site.gitub.io/">Lecturer</a> [description]
+ <br> <\br>
+ <br> <\br>
+ <br> <\br>
+ <br> <\br>
+ <br> <\br>
 </div>
 
 
-**Talk 6: Developing interpretable model with multi-modal data**
+**Talk 6: Title**
 
 <img style="float: left;margin-right: 7px;" src="pics/placeholder.jpg" alt="name_6" width="200"/>
 <div style="text-align: justify">
 <a href="https://staging-temp-site.github.io/staging-temp-site.gitub.io/">Lecturer</a> [description]
+ <br> <\br>
+ <br> <\br>
+ <br> <\br>
+ <br> <\br>
+ <br> <\br>
 </div>
 
 
