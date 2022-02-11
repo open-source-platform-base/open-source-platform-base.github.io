@@ -4,7 +4,7 @@ layout: default
 
 # Overview
 <div style="text-align: justify">
-Most of the real-world data is sequential and there is always a distribution shift when we move from training set to real-world testing scenario. This workshop invites researchers from both academia and industry to advance the research in robust learning for real-world applications. The goal of this workshop is to explore the fundamental problems in the characterization of distribution shifts in sequential data and to develop robust models for sequential data for real-world applications.
+The overarching goal of this workshop is to gather researchers, students, and advocates who work at the intersection of accessibility, computer vision, and autonomous systems. By actively supporting the engagement of people with disabilities in the workshop (as speakers, panelists, attendees), we will take a step towards building a community for accessibility research at computer vision conferences. Specifically, we plan to use the workshop to identify challenges and pursue solutions for the current lack of shared and principled development tools for data-driven vision-based accessibility systems. For instance, there is a general lack of vision-based benchmarks and methods relevant to accessibility (e.g., people with disabilities and mobility aids are currently mostly absent from large-scale datasets in pedestrian detection). More broadly, our workshop will provide a unique opportunity for fostering a mutual discussion between the accessibility community, computer vision, and robotics researchers. 
 </div>
 
 # Invited Speakers
@@ -103,10 +103,10 @@ We invite interested researchers to submit relevant work related to robust learn
 
 
 ## Important workshop dates
-- Workshop announcement: <strong>Jan 01, 2022</strong>
-- Workshop paper submission deadline: <strong>March 10, 2022</strong>
-- Notification to authors: <strong>April 01, 2022</strong>
-- Camera ready deadline: <strong>April 08, 2022</strong>
+- Workshop announcement: <strong>TBD</strong>
+- Workshop paper submission deadline: <strong>TBD</strong>
+- Notification to authors: <strong>TBD</strong>
+- Camera ready deadline: <strong>TBD</strong>
 
 ## Challenge details
 <div style="text-align: justify">
@@ -118,118 +118,104 @@ recognition models which will be tested for robustness against various perturbat
 Please refer to the **[challenge page](./challenge.html)** for more details.
 
 The challenge deadlines are as follows:
-- Challenge announcement: <strong>Jan 10, 2022</strong>
-- Release of testing data: <strong>Feb 10, 2022</strong>
-- Leaderboard open: <strong>Feb 25, 2022</strong>
-- Challenge submission deadline [paper track]: <strong>March 10, 2022</strong>
-- Challenge submission deadline: <strong>May 31, 2022</strong>
-- Winner announcement: <strong>June 05, 2022</strong>
+- Challenge announcement: <strong>TBD</strong>
+- Release of testing data: <strong>TBD</strong>
+- Leaderboard open: <strong>TBD</strong>
+- Challenge submission deadline [paper track]: <strong>TBD</strong>
+- Challenge submission deadline: <strong>TBD</strong>
+- Winner announcement: <strong>TBD</strong>
 
 ## Schedule
 
 | Time | Event | Duration |
 | ----- | ----- | ----- |
-08:30 AM-08:45 AM  |  Opening  |  (15 min)
-08:45 AM-09:30 AM  |  Invited Talk 1: Deva Ramanan  |  (45 min)
-09:30 AM-10:15 AM  |  Invited Talk 2: Carl Vondrick    |  (45 min)
-10:15 AM-10:45 AM  |  Coffee Break  |  (30 min)
-10:45 AM-11:30 AM  |  Invited Talk 3: Mohit Bansal  |  (45 min)
-11:30 AM-12:15 AM  |  Invited Talk 4: Sayna Ebrahimi  |  (45 min)
-12:15 AM-12:30 PM  |  Paper Presentation  |  (15 min)
-12:30 PM-01:30 PM  |  Lunch Break  |  (60 min)
-01:30 PM-02:15 PM  |  Invited Talk 5: Balaji Lakshminarayanan  |  (45 min)
-02:15 PM-03:00 PM  |  Invited Talk 6: Hannaneh Hajishirzi  |  (45 min)
-03:45 PM-04:15 PM  |  Coffee Break  |  (30 min)
-04:15 PM-04:30 PM  |  Paper Presentation  |  (15 min)
-04:30 PM-04:40 PM  |  Challenge introduction  |  (10 min)
-04:40 PM-05:00 PM  |  Challenge presentations  |  (20 min)
-05:00 PM-05:15 PM  |  Award Annoucement & Closing Remarks  |  (15 min)
+ |   |  
 
 
 ## Organizers
 <div style="display: flex">
   <div style="width:22.5%">
-    <a href="http://vibhavvineet.info">
-    <img alt="name_7" src="pics/placeholder.jpg">
+    <a href="https://eshed1.github.io/">
+    <img alt="Eshed Ohn-Bar" src="pics/eshed_ohn_bar.jpg">
     </a><br>
-    <a href="http://vibhavvineet.info">Vibhav Vineet</a><br>
-    Microsoft Research
+    <a href="https://eshed1.github.io/">Eshed Ohn-Bar</a><br>
+    Boston University
   </div>
   
   <div style="width:2.5%">
   </div>
    
   <div style="width:22.5%">
-    <a href="https://www.crcv.ucf.edu/person/rawat/">
-    <img alt="name_8" src="pics/placeholder.jpg">
+    <a href="https://home.cs.colorado.edu/~DrG/AboutMe.html">
+    <img alt="Danna Gurari" src="pics/danna_gurari.jpg">
     </a><br>
-  <a href="https://www.crcv.ucf.edu/person/rawat/">Yogesh Rawat</a><br>
-    CRCV, University of Central Florida (UCF)
+  <a href="https://home.cs.colorado.edu/~DrG/AboutMe.html">Danna Gurari</a><br>
+    University of Colorado Boulder
   </div>
   
   <div style="width:2.5%">
   </div>
    
   <div style="width:22.5%">
-    <a href="https://www.microsoft.com/en-us/research/people/hpalangi">
-    <img alt="name_9" src="pics/placeholder.jpg">
+    <a href="http://www.cs.cmu.edu/~kkitani/">
+    <img alt="Kris Kitani" src="pics/kitani_kris.jpg">
     </a><br>
-  <a href="https://www.microsoft.com/en-us/research/people/hpalangi">Hamid Palangi</a><br>
-    Microsoft Research
+  <a href="http://www.cs.cmu.edu/~kkitani/">Kris Kitani</a><br>
+    Carnegie Mellon University
   </div>
   
   <div style="width:2.5%">
   </div>
    
   <div style="width:22.5%">
-    <a href="https://www.crcv.ucf.edu/person/mubarak-shah">
-    <img alt="name_10" src="pics/placeholder.jpg">
+    <a href="http://ai.bu.edu/ksaenko.html#">
+    <img alt="Kate Saenko" src="pics/kate_saenko.png">
     </a><br>
-  <a href="https://www.crcv.ucf.edu/person/mubarak-shah">Mubarak Shah</a><br>
-    CRCV, University of Central Florida (UCF)
+  <a href="http://ai.bu.edu/ksaenko.html#">Kate Saenko</a><br>
+   Boston University
   </div>
 </div>
 
 <div style="display: flex">
   <div style="width:22.5%">
-    <a href="https://xinw.ai/">
-    <img alt="name_11" src="pics/placeholder.jpg">
+    <a href="http://www.cvlibs.net/">
+    <img alt="Andreas Geiger" src="pics/andreas_geiger.jpg">
     </a><br>
-    <a href="https://xinw.ai/">Xin Wang</a><br>
-    Microsoft Research
+    <a href="http://www.cvlibs.net/">Andreas Geiger</a><br>
+    University of Tübingen and the MPI for Intelligent Systems
   </div>
   
   <div style="width:2.5%">
   </div>
   
   <div style="width:22.5%">
-    <a href="https://scholar.google.com/citations?user=15YqUQUAAAAJ&hl=en&oi=ao">
-    <img alt="name_12" src="pics/placeholder.jpg">
+    <a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-chiekoa">
+    <img alt="Chieko Asakawa" src="pics/chieko_asakawa.jpg">
     </a><br>
-  <a href="https://scholar.google.com/citations?user=15YqUQUAAAAJ&hl=en&oi=ao">Shruti Vyas</a><br>
-    CRCV, University of Central Florida (UCF)
+  <a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-chiekoa">Chieko Asakawa</a><br>
+    Carnegie Mellon University and IBM
   </div>
 
   <div style="width:2.5%">
   </div>
   
   <div style="width:22.5%">
-    <a href="https://saynaebrahimi.github.io">
-    <img alt="name_13" src="pics/placeholder.jpg">
+    <a href="https://jonfroehlich.github.io/">
+    <img alt="Jon E. Froehlich" src="pics/jon_e_froehlich.jpg">
     </a><br>
-  <a href="https://saynaebrahimi.github.io">Sayna Ebrahimi</a><br>
-    Google Cloud AI
+  <a href="https://jonfroehlich.github.io/">Jon E. Froehlich</a><br>
+    University of Washington
   </div>
   
   <div style="width:2.5%">
   </div>
   
   <div style="width:22.5%">
-    <a href="https://www.cs.unc.edu/~mbansal">
-    <img alt="name_14" src="pics/placeholder.jpg">
+    <a href="https://www.linkedin.com/in/chandrikajayant">
+    <img alt="Chandrika Jayant" src="pics/chandrika_jayant.jfif">
     </a><br>
-  <a href="https://www.cs.unc.edu/~mbansal">Mohit Bansal</a><br>
-    University of North Carolina (UNC) Chapel Hill
+  <a href="https://www.linkedin.com/in/chandrikajayant">Chandrika Jayant</a><br>
+    Volkswagen Group of America
   </div>
 </div>
 
@@ -238,10 +224,10 @@ The challenge deadlines are as follows:
 
 <div style="display: flex">
   <div style="width:22.5%">
-    <a href="https://www.cs.ubc.ca/~murphyk/">
+    <a href="https://staging-temp-site.github.io/staging-temp-site.gitub.io/">
     <img alt="name_15" src="pics/placeholder.jpg">
     </a><br>
-    <a href="https://www.cs.ubc.ca/~murphyk/">Kevin Murphy</a><br>
+    <a href="https://staging-temp-site.github.io/staging-temp-site.gitub.io/">[Name]</a><br>
     Google, USA
   </div>
   
@@ -249,10 +235,10 @@ The challenge deadlines are as follows:
   </div>
    
   <div style="width:22.5%">
-    <a href="https://homes.cs.washington.edu/~yejin/">
+    <a href="https://staging-temp-site.github.io/staging-temp-site.gitub.io/">
     <img alt="name_16" src="pics/placeholder.jpg">
     </a><br>
-  <a href="https://homes.cs.washington.edu/~yejin/">Yejin Choi</a><br>
+  <a href="https://staging-temp-site.github.io/staging-temp-site.gitub.io/">[Name]</a><br>
     University of Washington, USA
   </div>
 </div>
@@ -261,29 +247,15 @@ The challenge deadlines are as follows:
 ## Program Committee
 
 | --- | --- |
-| Dr Kevin Duarte | ML Engineer, Adobe, USA |
-| Chengzhi Mao | PhD Student, Columbia University, USA |
-| Nayeem Mamshad Rizve | PhD Student, University of Central Florida, USA |
-| Dr. Shu Kong | Postdoc, Carnegie Mellon University, USA |
-| Dr. Navid Kardan | Postdoc, University of Central Florida, USA |
-| Dr. Naveed Akhtar | Assistant Professor, University of Western Australia, Australia |
-| Aayush Rana | PhD Student, University of Central Florida, USA |
-| Rahul Ambati | PhD Student, University of Central Florida, USA |
-| Dr. Rajiv Shah | Assistant Professor, Indraprastha Institute of Information Technology Delhi, India |
-| Xu Ziwei | PhD Student, National University of Singapore, Singapore |
-| Dr. Jack Hessel | Research Scientist, AI2, USA |
-| Yunhao (Andy) Ge | PhD student, University of Southern California, USA |
+|  |  |
 
 ## Student Organizers
 
 | --- | --- |
-| Aayush Rana | PhD Student, University of Central Florida, USA |
-| Madeline Schiappa | PhD Student, University of Central Florida, USA |
-| Naman Biyani | Undergrad Student, IIT Kanpur, India |
+|  |  |
 
-
-### Join our **[mailing list](https://groups.google.com/g/robustness-challenge)** for updates.
-For any questions, please contact **Yogesh Rawat [yogesh@crcv.ucf.edu]** and <br>**Vibhav Vineet [Vibhav.Vineet@microsoft.com]**.
+### Join our **[mailing list](https://staging-temp-site.github.io/staging-temp-site.gitub.io/)** for updates.
+For any questions, please contact **Eshed Ohn-Bar [eohnbar@gmail.com]**.
 
 ## Videos
 <div style=" float: center;">
