@@ -136,7 +136,7 @@ The challenge deadlines are as follows:
 <div style="display: flex">
   <div style="width:22.5%">
     <a href="https://eshed1.github.io/">
-    <img alt="Eshed Ohn-Bar" src="pics/eshed_ohn_bar.jpg"width=100vh height=100vh>
+    <img alt="Eshed Ohn-Bar" src="pics/eshed_ohn_bar.jpg" height="200">
     </a><br>
     <a href="https://eshed1.github.io/">Eshed Ohn-Bar</a><br>
     Boston University
@@ -147,7 +147,7 @@ The challenge deadlines are as follows:
    
   <div style="width:22.5%">
     <a href="https://home.cs.colorado.edu/~DrG/AboutMe.html">
-    <img alt="Danna Gurari" src="pics/danna_gurari.jpg" width=100vh height=100vh>
+    <img alt="Danna Gurari" src="pics/danna_gurari.jpg"  height="200">
     </a><br>
   <a href="https://home.cs.colorado.edu/~DrG/AboutMe.html">Danna Gurari</a><br>
     University of Colorado Boulder
@@ -158,7 +158,7 @@ The challenge deadlines are as follows:
    
   <div style="width:22.5%">
     <a href="http://www.cs.cmu.edu/~kkitani/">
-    <img alt="Kris Kitani" src="pics/kitani_kris.jpg" width=100vh height=100vh>
+    <img alt="Kris Kitani" src="pics/kitani_kris.jpg"  height="200">
     </a><br>
   <a href="http://www.cs.cmu.edu/~kkitani/">Kris Kitani</a><br>
     Carnegie Mellon University
@@ -169,7 +169,7 @@ The challenge deadlines are as follows:
    
   <div style="width:22.5%">
     <a href="http://ai.bu.edu/ksaenko.html#">
-    <img alt="Kate Saenko" src="pics/kate_saenko.jpg"  width=100vh height=100vh>
+    <img alt="Kate Saenko" src="pics/kate_saenko.jpg"   height="200">
     </a><br>
   <a href="http://ai.bu.edu/ksaenko.html#">Kate Saenko</a><br>
    Boston University
@@ -179,7 +179,7 @@ The challenge deadlines are as follows:
 <div style="display: flex">
   <div style="width:22.5%">
     <a href="http://www.cvlibs.net/">
-    <img alt="Andreas Geiger" src="pics/andreas_geiger.jpg"  width=100vh height=100vh>
+    <img alt="Andreas Geiger" src="pics/andreas_geiger.jpg"   height="200">
     </a><br>
     <a href="http://www.cvlibs.net/">Andreas Geiger</a><br>
     University of Tübingen and the MPI for Intelligent Systems
@@ -190,7 +190,7 @@ The challenge deadlines are as follows:
   
   <div style="width:22.5%">
     <a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-chiekoa">
-    <img alt="Chieko Asakawa" src="pics/chieko_asakawa.jpg"  width=100vh height=100vh>
+    <img alt="Chieko Asakawa" src="pics/chieko_asakawa.jpg"   height="200">
     </a><br>
   <a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-chiekoa">Chieko Asakawa</a><br>
     Carnegie Mellon University and IBM
@@ -201,7 +201,7 @@ The challenge deadlines are as follows:
   
   <div style="width:22.5%">
     <a href="https://jonfroehlich.github.io/">
-    <img alt="Jon E. Froehlich" src="pics/jon_e_froehlich.jpg"  width=100vh height=100vh>
+    <img alt="Jon E. Froehlich" src="pics/jon_e_froehlich.jpg"   height="200">
     </a><br>
   <a href="https://jonfroehlich.github.io/">Jon E. Froehlich</a><br>
     University of Washington
@@ -212,7 +212,7 @@ The challenge deadlines are as follows:
   
   <div style="width:22.5%">
     <a href="https://www.linkedin.com/in/chandrikajayant">
-    <img alt="Chandrika Jayant" src="pics/chandrika_jayant.jfif" width=100vh height=100vh>
+    <img alt="Chandrika Jayant" src="pics/chandrika_jayant.jfif"  height="200">
     </a><br>
   <a href="https://www.linkedin.com/in/chandrikajayant">Chandrika Jayant</a><br>
     Volkswagen Group of America
@@ -225,10 +225,10 @@ The challenge deadlines are as follows:
 <div style="display: flex">
   <div style="width:22.5%">
     <a href="https://staging-temp-site.github.io/staging-temp-site.gitub.io/">
-    <img alt="name_15" src="pics/placeholder.jpg"  width=100vh height=100vh>
+    <img alt="name_15" src="pics/placeholder.jpg" height="200">
     </a><br>
     <a href="https://staging-temp-site.github.io/staging-temp-site.gitub.io/">[Name]</a><br>
-    Google, USA
+    [Institution]
   </div>
   
   <div style="width:2.5%">
@@ -236,10 +236,10 @@ The challenge deadlines are as follows:
    
   <div style="width:22.5%">
     <a href="https://staging-temp-site.github.io/staging-temp-site.gitub.io/">
-    <img alt="name_16" src="pics/placeholder.jpg"  width=100vh height=100vh>
+    <img alt="name_16" src="pics/placeholder.jpg"  height="200">
     </a><br>
   <a href="https://staging-temp-site.github.io/staging-temp-site.gitub.io/">[Name]</a><br>
-    University of Washington, USA
+    [Institution]
   </div>
 </div>
 
