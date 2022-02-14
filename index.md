@@ -15,9 +15,80 @@ The overarching goal of this workshop is to gather researchers, students, and ad
 </div>
 
 # Invited Speakers
+<div style="display: flex">
+  <div style="width:22.5%">
+    <a href="https://www.inclusivemobility.com/">
+    <img alt="Chandrika Jayant" src="pics/chandrika_jayant.jfif"  height="200" style =  "border-radius: 50%; object-fit: cover; ">
+    </a><br>
+  <a href="https://www.inclusivemobility.com/">Chandrika Jayant</a><br>
+    Volkswagen Group of America, Principal Designer and Manager, Inclusive Mobility Team
+  </div>
+  
+  <div style="width:2.5%">
+  </div>
+  <div style="width:22.5%">
+    <a href="https://www.linkedin.com/in/clemdwright">
+    <img alt="speaker2" src="pics/clem_wright.jfif" height="200" style =  "border-radius: 50%; object-fit: cover; ">
+    </a><br>
+    <a href="https://www.linkedin.com/in/clemdwright">Clem Wright</a><br>
+    Waymo, Product Manager for Accessibility
+  </div>
+  
+  <div style="width:2.5%">
+  </div>
+    <div style="width:22.5%">
+    <a href="https://jonfroehlich.github.io/">
+    <img alt="Jon E. Froehlich" src="pics/jon_e_froehlich.jpg"   height="200" style =  "border-radius: 50%; object-fit: cover; ">
+    </a><br>
+  <a href="https://jonfroehlich.github.io/">Jon E. Froehlich</a><br>
+    University of Washington, Researcher in Human-Computer Interaction and Accessibility
+  </div>
+  
+  <div style="width:2.5%">
+  </div>
+  <div style="width:22.5%">
+    <a href="https://www.ski.org/users/james-coughlan">
+    <img alt="speaker4" src="pics/james_coughlan.jpg" height="200" style =  "border-radius: 50%; object-fit: cover; ">
+    </a><br>
+    <a href="https://www.ski.org/users/james-coughlan">James Coughlan </a><br>
+    Smith-Kettlewell Eye Research Institute, Researcher in Computer Vision Technologies for Blind and Visually Impaired
+  </div>
+  
+  <div style="width:2.5%">
+  </div>
+    <div style="width:22.5%">
+    <a href="https://adriengaidon.com/">
+    <img alt="speaker5" src="pics/adrien_gaidon.png" height="200" style =  "border-radius: 50%; object-fit: cover; ">
+    </a><br>
+    <a href="https://adriengaidon.com/">Adrien Gaidon </a><br>
+    Toyota Research Institute, Head of Machine Learning Research
+  </div>
+  
+  <div style="width:2.5%">
+  </div>
+  <div style="width:22.5%">
+    <a href="https://pelilab.partners.org/">
+    <img alt="speaker6" src="pics/eli_peli.jpg" height="200" style =  "border-radius: 50%; object-fit: cover; ">
+    </a><br>
+    <a href="https://pelilab.partners.org/"> Eli Peli </a><br>
+    Harvard, Professor of Ophthalmology Harvard Medical School, Researcher in Disability, Rehabilitation, and Assistive Technologies for Low Vision
+  </div>
+  
+  <div style="width:2.5%">
+  </div>
+  <div style="width:22.5%">
+    <a href="https://www.microsoft.com/en-us/research/people/oskoller/">
+    <img alt="speaker7" src="pics/oscar_koller.png" height="200" style =  "border-radius: 50%; object-fit: cover; ">
+    </a><br>
+    <a href="https://www.microsoft.com/en-us/research/people/oskoller/"> Oscar Koller </a><br>
+    Microsoft, Speech and Language Group
+  </div>
+  </div>
+</div>   
+<!-- 
 **Talk 1: Title**
 
-<img style="float: left;margin-right: 7px;" src="pics/placeholder.jpg" alt="name_1" width="200" style =  "border-radius: 50%; object-fit: cover; " >
+<!-- <img style="float: left;margin-right: 7px;" src="pics/placeholder.jpg" alt="name_1" width="200" style =  "border-radius: 50%; object-fit: cover; " >
 <div style="text-align: justify">
 <a href="https://staging-temp-site.github.io/staging-temp-site.gitub.io/">Lecturer</a> [description]
 <br> 
@@ -27,85 +98,11 @@ The overarching goal of this workshop is to gather researchers, students, and ad
  <br>
  <br> 
  <br> 
-</div>
+</div>  -->
 
-
-**Talk 2:  Title**
-
-<img style="float: left;margin-right: 7px;" src="pics/placeholder.jpg" alt="name_2" width="200"  style =  "border-radius: 50%; object-fit: cover; " >
-<div style="text-align: justify">
-<a href="https://staging-temp-site.github.io/staging-temp-site.gitub.io/">Lecturer</a> [description]
-<br> 
- <br> 
- <br> 
- <br> 
- <br>
- <br> 
- <br> 
-</div>
-
-
-**Talk 3: Title**
-
-<img style="float: left;margin-right: 7px;" src="pics/placeholder.jpg" alt="name_3" width="200"  style =  "border-radius: 50%; object-fit: cover; " >
-<div style="text-align: justify">
-<a href="https://staging-temp-site.github.io/staging-temp-site.gitub.io/">Lecturer</a> [description]
-<br> 
- <br> 
- <br> 
- <br> 
- <br>
- <br> 
- <br> 
-</div>
-
-
-**Talk 4: Title**
-
-<img style="float: left;margin-right: 7px;" src="pics/placeholder.jpg" alt="name_4" width="200"  style =  "border-radius: 50%; object-fit: cover; " >
-<div style="text-align: justify">
-<a href="https://staging-temp-site.github.io/staging-temp-site.gitub.io/">Lecturer</a> [description]
-<br> 
- <br> 
- <br> 
- <br> 
- <br>
- <br> 
- <br> 
-</div>
-
-
-**Talk 5: Title**
-
-<img style="float: left;margin-right: 7px;" src="pics/placeholder.jpg" alt="name_5" width="200"  style =  "border-radius: 50%; object-fit: cover; ">
-<div style="text-align: justify">
-<a href="https://staging-temp-site.github.io/staging-temp-site.gitub.io/">Lecturer</a> [description]
-<br> 
- <br> 
- <br> 
- <br> 
- <br>
- <br> 
- <br> 
-</div>
-
-
-**Talk 6: Title**
-
-<img style="float: left;margin-right: 7px;" src="pics/placeholder.jpg" alt="name_6" width="200"  style =  "border-radius: 50%; object-fit: cover; " >
-<div style="text-align: justify">
-<a href="https://staging-temp-site.github.io/staging-temp-site.gitub.io/">Lecturer</a> [description]
- <br> 
- <br> 
- <br> 
- <br> 
- <br>
- <br> 
- <br> 
-</div>
 
 ## Schedule
-
+<!-- 
 | Time | Event | Duration |
 | ----- | ----- | ----- |
 | 08:30-08:35 | introduction/opening remarks | (5 min)
@@ -119,7 +116,8 @@ The overarching goal of this workshop is to gather researchers, students, and ad
 | 11:45-12:15 | Challenge results/ oral presentation of the best papers | (30 min)
 | 12:15-12:45 | Panel discussion | (30 min)
 | 12:45-13:30 | posters/demo spotlights | (45 min)
-
+ -->
+Coming soon. 3 keynotes & 4-6 oral paper presentations & demo session & panel discussion.
 
 ## Organizers
 <div style="display: flex">
@@ -200,18 +198,18 @@ The overarching goal of this workshop is to gather researchers, students, and ad
   </div>
   
   <div style="width:22.5%">
-    <a href="https://www.linkedin.com/in/chandrikajayant">
+    <a href="https://www.inclusivemobility.com/">
     <img alt="Chandrika Jayant" src="pics/chandrika_jayant.jfif"  height="200" style =  "border-radius: 50%; object-fit: cover; ">
     </a><br>
-  <a href="https://www.linkedin.com/in/chandrikajayant">Chandrika Jayant</a><br>
+  <a href="https://www.inclusivemobility.com/">Chandrika Jayant</a><br>
     Volkswagen Group of America
   </div>
 </div>
 
 
-## Advising committee
+<!-- ## Advising committee -->
 
-<div style="display: flex">
+<!-- <div style="display: flex">
  <div style="width:22.5%">
     <a href="https://staging-temp-site.github.io/staging-temp-site.gitub.io/">
     <img alt="name_16" src="pics/placeholder.jpg"  height="200" style =  "border-radius: 50%; object-fit: cover; ">
@@ -230,31 +228,32 @@ The overarching goal of this workshop is to gather researchers, students, and ad
   <a href="https://staging-temp-site.github.io/staging-temp-site.gitub.io/">[Name]</a><br>
     [Institution]
   </div>
-</div>
+</div> -->
 
 
 
-## Program Committee
+<!-- ## Program Committee -->
+<!-- 
+| --- | --- |
+|  |  | -->
 
+<!-- ## Student Organizers -->
+<!-- 
 | --- | --- |
 |  |  |
-
-## Student Organizers
-
-| --- | --- |
-|  |  |
-
+ -->
 
 
 <!-- ## Call for papers
 We invite interested researchers to submit relevant work related to robust learning for real-world applications. Please refer to the **[call for papers](./call-for-papers.html)** page for more details. -->
-
+<!-- 
 <div style="text-align: center">
 <u><g8>Challenge</g8></u>
 </div>
+ -->
 
-
-## Challenge overview
+<!-- ## Challenge overview -->
+<!-- 
 <div style="text-align: justify">
 Towards building a community of accessibility research in computer vision conferences, we will introduce a relevant machine perception challenge with synthetic and real-world benchmarks. The challenge (based on our ICCV’21 paper, <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_X-World_Accessibility_Vision_and_Autonomy_Meet_ICCV_2021_paper.pdf">bit.ly/2X8sYoX</a>) will be used to benchmark various computer vision tasks when comparing new and established methods for fine-grained perception of tasks relevant to people with disabilities. The challenge is designed in the spirit of various other vision challenges that help advance the state-of-the-art of computer vision for autonomous systems, e.g., in robust vision (CVPR’21), human action recognition trajectory forecasting (CVPR’21), etc. Examples from the simulation environment and challenge can be seen below (as well as the final page of this proposal). We aim to use the challenge, together with a broad panel of speakers to uncover research opportunities and broadly spark the interest of computer vision and AI researchers working on more inclusive visual reasoning models in the future.
  </div>
@@ -267,22 +266,22 @@ Towards building a community of accessibility research in computer vision confer
     <img alt="fig2" src="pics/fig2.svg" >
     <p>Fig. 2: Various tasks and modalities incorporating use-cases of autonomous robots interacting with pedestrians with disabilities.</p>
 </div>
-<br>
+<br> -->
 
-## Competition
+## Challenge
 
 <div style="text-align: justify">
 We will use the recently introduced fine-grained instance segmentation benchmark from our ICCV 2021 paper (<a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_X-World_Accessibility_Vision_and_Autonomy_Meet_ICCV_2021_paper.pdf">bit.ly/2X8sYoX</a>, Zhang et al., X-World:Accessibility, Vision, and Autonomy Meet)
 The dataset involves a large synthetic and real-world set of images with pedestrians with mobility aids. Evaluation follows COCO evaluation, but with novel categories. Classes such as ‘cane’ currently have very low performance by Mask R-CNN (less than 1% accuracy). Moreover, people in wheelchairs tend to result in degraded performances as well (~50% reduction in relative performance). The benchmark is quite challenging, spanning weathers, towns, scenarios, camera perspectives, use-cases, and mobility aids. In terms of ethical considerations, we emphasize that this work does not imply prioritization of the decision-making (e.g., as a trolley problem). Our primary concern is with uncovering challenges which may impact perception of pedestrians with disabilities disproportionately. The videos used to construct the real-world dataset were voluntarily uploaded and shared in public domain sources, often for educational purposes. We also plan to expand upon the benchmark in the original ICCV paper in dataset size and tasks for the workshop. Submissions will be evaluated using a submission server (e.g., CodaLab/Kaggle). Assuming acceptance of the workshop proposal in December, we will release the benchmark in January, with a deadline in June to ensure ample time for the participants. Currently, the benchmark is mostly ready for release, however we would like to set up a suitable evaluation server and provide additional perception tasks to engage various computer vision researchers. Two example ground truth images are shown below:
-
+<!-- 
 </div>
 <div class = "center">
 <img alt="fig3a" src="pics/fig3a.svg" >
 
-<img alt="fig3b" src="pics/fig3b.svg" style = "display: block;  margin-left: auto;   margin-right: auto;">
+<!-- <img alt="fig3b" src="pics/fig3b.svg" style = "display: block;  margin-left: auto;   margin-right: auto;">
 <p>Fig. 3: The workshop challenge will include an instance segmentation task in simulation and real-world data.</p>
-</div>
-
+</div> -->
+ 
 
 <div style="text-align: center">
 <u><g8>Call for papers</g8></u>
@@ -334,11 +333,12 @@ The challenge deadlines are as follows:
 - Winner announcement: <strong>TBD</strong>
 
 
-### Join our **[mailing list](https://staging-temp-site.github.io/staging-temp-site.gitub.io/)** for updates.
-For any questions, please contact **Eshed Ohn-Bar [eohnbar@gmail.com]**.
+<!-- ### Join our **[mailing list](https://staging-temp-site.github.io/staging-temp-site.gitub.io/)** for updates. -->
+<!-- For any questions, please contact **Eshed Ohn-Bar [eohnbar@gmail.com]**. -->
 
-## Videos
-<div style=" float: center;">
+<!-- ## Videos -->
+
+<!-- <div style=" float: center;">
     <div align="center" style="width:45%; float: left;">
       <h4><u>OpenGuide</u> </h4>
         <iframe src="https://www.youtube.com/embed/mGq9sL1spzc" frameborder="0"
@@ -356,6 +356,6 @@ For any questions, please contact **Eshed Ohn-Bar [eohnbar@gmail.com]**.
           allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
           style="width:100%; clip-path:inset(1px 1px); height: 30vh" allowfullscreen></iframe>
       
-    </div-->
-  </div>
+    </div>
+  </div--> 
 
