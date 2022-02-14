@@ -169,7 +169,7 @@ The challenge deadlines are as follows:
    
   <div style="width:22.5%">
     <a href="http://ai.bu.edu/ksaenko.html#">
-    <img alt="Kate Saenko" src="pics/kate_saenko.jpg"   height="200" style =  "border-radius: 50%; object-fit: cover; ">
+    <img alt="Kate Saenko" src="pics/kate_saenko.png"   height="200" style =  "border-radius: 50%; object-fit: cover; ">
     </a><br>
   <a href="http://ai.bu.edu/ksaenko.html#">Kate Saenko</a><br>
    Boston University
