@@ -56,7 +56,9 @@ The overarching goal of this workshop is to gather researchers, students, and ad
     <a href="https://www.ski.org/users/james-coughlan">James Coughlan </a><br>
     Smith-Kettlewell Eye Research Institute, Researcher in Computer Vision Technologies for Blind and Visually Impaired
   </div>
+</div>
   
+<div style="display: flex">
   <div style="width:2.5%">
   </div>
     <div style="width:22.5%">
