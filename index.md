@@ -16,6 +16,7 @@ The overarching goal of this workshop is to gather researchers, students, and ad
 
 # Invited Speakers
 <div style="display: flex">
+  
   <div style="width:22.5%">
     <a href="https://www.inclusivemobility.com/">
     <img alt="Chandrika Jayant" src="pics/chandrika_jayant.jfif"  height="200" style =  "border-radius: 50%; object-fit: cover; ">
@@ -26,6 +27,7 @@ The overarching goal of this workshop is to gather researchers, students, and ad
   
   <div style="width:2.5%">
   </div>
+
   <div style="width:22.5%">
     <a href="https://www.linkedin.com/in/clemdwright">
     <img alt="speaker2" src="pics/clem_wright.jfif" height="200" style =  "border-radius: 50%; object-fit: cover; ">
@@ -36,7 +38,8 @@ The overarching goal of this workshop is to gather researchers, students, and ad
   
   <div style="width:2.5%">
   </div>
-    <div style="width:22.5%">
+
+  <div style="width:22.5%">
     <a href="https://jonfroehlich.github.io/">
     <img alt="Jon E. Froehlich" src="pics/jon_e_froehlich.jpg"   height="200" style =  "border-radius: 50%; object-fit: cover; ">
     </a><br>
@@ -87,18 +90,6 @@ The overarching goal of this workshop is to gather researchers, students, and ad
 </div>   
 <!-- 
 **Talk 1: Title** -->
-
-<!-- <img style="float: left;margin-right: 7px;" src="pics/placeholder.jpg" alt="name_1" width="200" style =  "border-radius: 50%; object-fit: cover; " >
-<div style="text-align: justify">
-<a href="https://staging-temp-site.github.io/staging-temp-site.gitub.io/">Lecturer</a> [description]
-<br> 
- <br> 
- <br> 
- <br> 
- <br>
- <br> 
- <br> 
-</div>  -->
 
 
 ## Schedule
