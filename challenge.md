@@ -1,105 +1,70 @@
 ---
 layout: default
 ---
+<style> 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+} </style>
 
 <div style="text-align: center">
 <u><g8>Challenge</g8></u>
 </div>
 
 ## Important dates
-- Challenge announcement: <strong>Jan 10, 2022</strong>
-- Release of testing data: <strong>Feb 10, 2022</strong>
-- Leaderboard open: <strong>Feb 25, 2022</strong>
-- Challenge submission deadline [paper track]: <strong>March 10, 2022</strong>
-- Challenge submission deadline: <strong>May 31, 2022</strong>
-- Winner announcement: <strong>June 05, 2022</strong>
+- Challenge announcement: <strong>TBD</strong>
+- Release of testing data: <strong>TBD</strong>
+- Leaderboard open: <strong>TBD</strong>
+- Challenge submission deadline [paper track]: <strong>TBD</strong>
+- Challenge submission deadline: <strong>TBD</strong>
+- Winner announcement: <strong>TBD</strong>
 
 ## Challenge overview
 <div style="text-align: justify">
-This challenge invites participants from both academia and industry to develop robust activity recognition models which will be tested for robustness against various perturbations. 
-<br>
-<br>
-The robustness will be evaluated based on the model's performance on the test set with natural corruptions and perturbations. 
-We will test the model robustness against natural perturbations including spatial corruptions, temporal corruptions, 
-camera related perturbations, and compression perturbations.
-<br>
-<br>
-We will use a public leaderboard for this challenge where the participants can submit their solutions which will be automatically evaluated.
+Towards building a community of accessibility research in computer vision conferences, we will introduce a relevant machine perception challenge with synthetic and real-world benchmarks. The challenge (based on our ICCV’21 paper, **[bit.ly/2X8sYoX] bit.ly/2X8sYoX**) will be used to benchmark various computer vision tasks when comparing new and established methods for fine-grained perception of tasks relevant to people with disabilities. The challenge is designed in the spirit of various other vision challenges that help advance the state-of-the-art of computer vision for autonomous systems, e.g., in robust vision (CVPR’21), human action recognition trajectory forecasting (CVPR’21), etc. Examples from the simulation environment and challenge can be seen below (as well as the final page of this proposal). We aim to use the challenge, together with a broad panel of speakers to uncover research opportunities and broadly spark the interest of computer vision and AI researchers working on more inclusive visual reasoning models in the future. 
+<div style="width:50%">
+<img alt="fig1" src="pics/fig1.svg" class = "center">
+<a>Fig. 1: An interactive simulation environment will be used as part of the workshop challenge for training machine perception and learning models in the context of accessibility (taken from **[bit.ly/2X8sYoX] bit.ly/2X8sYoX** ).<\a>
 </div>
+<br>
+<div style="width:50%">
+<img alt="fig2" src="pics/fig2.svg" class = "center">
+<a>Fig. 2: Various tasks and modalities incorporating use-cases of autonomous robots interacting with pedestrians with disabilities.<\a>
+</div>
+<br>
 
-
-## Task details
+## Competition
 <div style="text-align: justify">
-The challenge is focused on developing solutions that reduce the gap in performance between training set and real-world testing scenario. The goal of this challenge is to promote methods that can handle the various types of perturbations and corruptions observed in real-world data. 
-    
-The task will involve recognition of activities on three different datasets, including Kinetics-400, UCF-101 and HMDB-51. The participants will develop robust activity recognition model on these three datasets. These models will be evaluated on perturbed and corrupted samples based on above mentioned criteria, with the goal to test a model's robustness against various natural, camera-related and compression related perturbations and corruptions. Participants can train using the training set from the three datasets mentioned. We will provide test set for each dataset containing a full-sets as well as mini-sets for faster evaluation.
+We will use the recently introduced fine-grained instance segmentation benchmark from our ICCV 2021 paper (**[bit.ly/2X8sYoX] bit.ly/2X8sYoX**  , Zhang et al., X-World:Accessibility, Vision, and Autonomy Meet)
+The dataset involves a large synthetic and real-world set of images with pedestrians with mobility aids. Evaluation follows COCO evaluation, but with novel categories. Classes such as ‘cane’ currently have very low performance by Mask R-CNN (less than 1% accuracy). Moreover, people in wheelchairs tend to result in degraded performances as well (~50% reduction in relative performance). The benchmark is quite challenging, spanning weathers, towns, scenarios, camera perspectives, use-cases, and mobility aids. In terms of ethical considerations, we emphasize that this work does not imply prioritization of the decision-making (e.g., as a trolley problem). Our primary concern is with uncovering challenges which may impact perception of pedestrians with disabilities disproportionately. The videos used to construct the real-world dataset were voluntarily uploaded and shared in public domain sources, often for educational purposes. We also plan to expand upon the benchmark in the original ICCV paper in dataset size and tasks for the workshop. Submissions will be evaluated using a submission server (e.g., CodaLab/Kaggle). Assuming acceptance of the workshop proposal in December, we will release the benchmark in January, with a deadline in June to ensure ample time for the participants. Currently, the benchmark is mostly ready for release, however we would like to set up a suitable evaluation server and provide additional perception tasks to engage various computer vision researchers. Two example ground truth images are shown below:
+
+<div style="width:50%">
+<img alt="fig3a" src="pics/fig3a.svg" class = "center">
+
+<img alt="fig3b" src="pics/fig3b.svg" class = "center">
+<a>Fig. 3: The workshop challenge will include an instance segmentation task in simulation and real-world data.<\a>
 </div>
 
 ## Dataset download
 <div style="text-align: justify">
-Training dataset can be downloaded from:
-<ul>
-<li>Kinetics-400: <a href="https://storage.googleapis.com/deepmind-media/Datasets/kinetics400.tar.gz">Click here</a></li>
-<li>UCF-101: <a href="https://www.crcv.ucf.edu/research/data-sets/ucf101/">Click here</a></li>
-<li>HMDB-51: <a href="https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/#Downloads">Click here</a></li>
-</ul>
-    
-Full testing dataset can be downloaded from:
-<ul>
-<li>Kinetics-400: <a href="">TDB</a></li>
-<li>UCF-101: <a href="">TDB</a></li>
-<li>HMDB-51: <a href="">TDB</a></li>
-</ul>
-    
-Mini testing dataset can be downloaded from:
-<ul>
-<li>Kinetics-400M: <a href="">TDB</a></li>
-<li>UCF-101M: <a href="">TDB</a></li>
-<li>HMDB-51M: <a href="">TDB</a></li>
-</ul>    
-</div>
+
 
 ## Evaluation
 <div style="text-align: justify">
-We will use existing benchmark datasets in activity recognition for the evaluation including Kinetics-400, UCF-101, and HMDB-51. We will release a mini-set and a full-set for testing which comprised of modified data for all three datasets which will include perturbations and corruptions. Both the mini-set and the full-set will be used for submission to the leaderboard for evaluation. The winners will be decided using the <b>accuracy metric</b> on the <b>full-set</b>.
-<br>
-<br>
-More details on the evaluation process, test data and the evaluation server link will be up soon!
-</div>
+
 
 
 ## Challenge paper submission guidelines
 <div style="text-align: justify">
-Participants willing to submit paper for consideration under the challenge track should follow the given guidelines. Failure to adhere to these guidelines will result in rejection of the paper, however the evaluation scores will still be considered for non-paper track.
-<ul>
-<li> The manuscript should follow CVPR 2022 paper template. The paper can have maximum of <b>8 pages</b> (excluding references) on above mentioned topics. We encourage the authors to submit 4 page papers. Please refer to <a href="https://cvpr2022.thecvf.com/sites/default/files/2021-10/cvpr2022-author_kit-v1_1-1.zip"><b>CVPR 2022 author kit</b></a> for detailed formatting instructions. </li>
-<li> Submitted manuscript should follow the double-blind policy following CVPR 2022.</li>
-<li> Dual submission to <b>CVPR 2022</b> and <b>ROSE 2022</b> is allowed, however the manuscript must contain substantial original contents that is not submitted to <b>any other</b> workshop, conference or journal.</li>
-<li> Submissions will be desk-rejected without review if they:
-    <ul>
-    <li> violate the double-blind or dual-submission policy</li>
-    <li> have more than 8 pages (excluding references)</li>
-    </ul>
-</li>
-<li> Submitted manuscripts will be peer reviewed under the double-blind policy of CVPR 2022. Submission should be done online through the <b>CMT submission system</b>.</li>
-<li> Accepted papers will be available at the workshop webpage. They will also be made available in the main conference proceedings if the authors agree (only for full-length papers not published at CVPR 2022).</li>
-</ul>
-</div>
+
 
 
 ## Tentative schedule
 <div style="text-align: justify">
-<ul>
-<li> <b>Feb 10, 2022:</b> <u>Test data release</u> <br>We will release the mini-set for the challenge track. The full-set will also be released shortly. </li>
-<li> <b>Feb 25, 2022:</b> <u>Leaderboard open</u> <br>The evaluation server and leaderboard will be open to public for challenge participation. </li>
-<li> <b>March 10, 2022:</b> <u>Challenge submission deadline for paper track</u> <br>Challenge participants willing to submit a paper to the workshop should submit their final manuscript with scores by this date. The participants may continue to submit for non-paper track until May 31, 2022, but those evaluations will not be considered for the paper. </li>
-<li> <b>April 01, 2022:</b> <u>Notification to authors</u> <br>Authors of submitted papers will be notified.</li>
-<li> <b>April 08, 2022:</b> <u>Camera ready deadline</u> <br>Selected papers should submit a well-formatted camera ready paper by this deadline.</li>
-<li> <b>May 31, 2022:</b> <u>Challenge submission deadline (non-paper track)</u> <br>Participants for the non-paper track can submit final evaluation files by this date for challenge consideration. </li>
-<li> <b>June 05, 2022:</b> <u>Challenge winner announcement</u> <br>Highest ranking participants will be asked to send the solutions and reports to the organizers.</li>
-<li> <b>June 20, 2022:</b> <u>Workshop</u> <br>Winners will present their solution. Presentation duration will be announced later.</li>
-</ul>
-</div>
 
-### Join our **[mailing list](https://groups.google.com/g/robustness-challenge)** for updates.
-For any questions, please contact **Yogesh Rawat [yogesh@crcv.ucf.edu]** and <br>**Vibhav Vineet [Vibhav.Vineet@microsoft.com]**.
+
+### Join our **[mailing list](https://staging-temp-site.github.io/staging-temp-site.gitub.io/)** for updates.
+For any questions, please contact **Eshed Ohn-Bar [eohnbar@gmail.com]**.
+

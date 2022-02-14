@@ -129,7 +129,17 @@ The challenge deadlines are as follows:
 
 | Time | Event | Duration |
 | ----- | ----- | ----- |
- |   |  
+| 08:30-08:35 | introduction/opening remarks | (5 min)
+| 08:35-09:00 | invited talk 1 | (25 min)
+| 09:00-09:30 | invited talk 2 | (30 min)
+| 09:30-10:00 | invited talk 3 | (30 min)
+| 10:00-10:15 | coffee break | (15 min)
+| 10:15-10:45 | invited talk 4 | (30 min)
+| 10:45-11:15 | invited talk 5 | (30 min)
+| 11:15-11:45 | invited talk 6 | (30 min)
+| 11:45-12:15 | Challenge results/ oral presentation of the best papers | (30 min)
+| 12:15-12:45 | Panel discussion | (30 min)
+| 12:45-13:30 | posters/demo spotlights | (45 min)
 
 
 ## Organizers
