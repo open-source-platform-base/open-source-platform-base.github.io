@@ -7,7 +7,7 @@ description:
 buttons:
   Overview: './index.html'
   Invited speakers: './index.html#invited-speakers'
-  # Call for papers: './call-for-papers.html'
+  Call for papers: ' './index.html#topics.html'
   Challenge details: './index.html#challenge-overview'
   Important dates: './index.html#important-workshop-dates'
   Schedule: './index.html#schedule'
