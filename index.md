@@ -86,7 +86,7 @@ The overarching goal of this workshop is to gather researchers, students, and ad
   </div>
 </div>   
 <!-- 
-**Talk 1: Title**
+**Talk 1: Title** -->
 
 <!-- <img style="float: left;margin-right: 7px;" src="pics/placeholder.jpg" alt="name_1" width="200" style =  "border-radius: 50%; object-fit: cover; " >
 <div style="text-align: justify">
@@ -244,8 +244,9 @@ Coming soon. 3 keynotes & 4-6 oral paper presentations & demo session & panel di
  -->
 
 
-<!-- ## Call for papers
-We invite interested researchers to submit relevant work related to robust learning for real-world applications. Please refer to the **[call for papers](./call-for-papers.html)** page for more details. -->
+<!-- ## Call for papers -->
+<!-- We invite interested researchers to submit relevant work related to robust learning for real-world applications. Please refer to the **[call for papers](./call-for-papers.html)** page for more details. -->
+
 <!-- 
 <div style="text-align: center">
 <u><g8>Challenge</g8></u>
