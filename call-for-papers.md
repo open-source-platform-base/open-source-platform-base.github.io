@@ -43,8 +43,12 @@ The goal of this workshop is to explore the following fundamental problems:
 
 <div style="text-align: justify">
 
+</div>
+
 ## Submission Guidelines
 <div style="text-align: justify">
+</div>
+
 
 ### Join our **[mailing list](https://staging-temp-site.github.io/staging-temp-site.gitub.io/)** for updates.
 For any questions, please contact **Eshed Ohn-Bar [eohnbar@gmail.com]**.
