@@ -21,9 +21,14 @@
       width: 50%;
       background-color: transparent;
     } 
+    
+    .page-header {
+  background-image: url('pics/background.jpg');
+    }
+
   </style>
     <section class="page-header">
-      <img alt="logo" src="pics/placehold-logo.svg" class = "logo" >
+      <!-- <img alt="logo" src="pics/placehold-logo.svg" class = "logo" > -->
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">
       {%- for line in site.description -%}
