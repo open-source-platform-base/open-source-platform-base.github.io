@@ -86,8 +86,8 @@ The overarching goal of this workshop is to gather researchers, students, and ad
     <a href="https://www.microsoft.com/en-us/research/people/oskoller/"> Oscar Koller </a><br>
     Microsoft, Speech and Language Group
   </div>
-  </div>
-</div>   
+</div>
+ 
 <!-- 
 **Talk 1: Title** -->
 
