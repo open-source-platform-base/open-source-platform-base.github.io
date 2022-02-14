@@ -223,11 +223,11 @@ The challenge deadlines are as follows:
 ## Advising committee
 
 <div style="display: flex">
-  <div style="width:22.5%">
-    <a href="https://staging-temp-site.github.io/staging-temp-site.gitub.io/" >
-    <img alt="name_15" src="pics/placeholder.jpg" height="200"style =  "border-radius: 50%; object-fit: cover; ">
+ <div style="width:22.5%">
+    <a href="https://staging-temp-site.github.io/staging-temp-site.gitub.io/">
+    <img alt="name_16" src="pics/placeholder.jpg"  height="200" style =  "border-radius: 50%; object-fit: cover; ">
     </a><br>
-    <a href="https://staging-temp-site.github.io/staging-temp-site.gitub.io/">[Name]</a><br>
+  <a href="https://staging-temp-site.github.io/staging-temp-site.gitub.io/">[Name]</a><br>
     [Institution]
   </div>
   
