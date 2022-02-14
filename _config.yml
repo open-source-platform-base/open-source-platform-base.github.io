@@ -9,7 +9,7 @@ buttons:
   Invited speakers: './index.html#invited-speakers'
   Call for papers: ' './index.html#topics'
   Challenge details: './index.html#challenge-overview'
-  Important dates: './index.html#important-workshop-dates'
+  Important dates: 'background.jpg'
   Schedule: './index.html#schedule'
 github:
   is_project_page: false

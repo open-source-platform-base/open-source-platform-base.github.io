@@ -287,6 +287,7 @@ The dataset involves a large synthetic and real-world set of images with pedestr
 <div style="text-align: center">
 <u><g8>Call for papers</g8></u>
 </div>
+
 ## Topics
 
 The goal of this workshop is to explore the following fundamental problems:
