@@ -104,58 +104,6 @@ The overarching goal of this workshop is to gather researchers, students, and ad
  <br> 
 </div>
 
-
-<!-- ## Call for papers
-We invite interested researchers to submit relevant work related to robust learning for real-world applications. Please refer to the **[call for papers](./call-for-papers.html)** page for more details. -->
-
-
-## Important workshop dates
-- Workshop announcement: <strong>TBD</strong>
-- Workshop paper submission deadline: <strong>TBD</strong>
-- Notification to authors: <strong>TBD</strong>
-- Camera ready deadline: <strong>TBD</strong>
-
-## Challenge overview
-<div style="text-align: justify">
-Towards building a community of accessibility research in computer vision conferences, we will introduce a relevant machine perception challenge with synthetic and real-world benchmarks. The challenge (based on our ICCV’21 paper, <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_X-World_Accessibility_Vision_and_Autonomy_Meet_ICCV_2021_paper.pdf">bit.ly/2X8sYoX</a>) will be used to benchmark various computer vision tasks when comparing new and established methods for fine-grained perception of tasks relevant to people with disabilities. The challenge is designed in the spirit of various other vision challenges that help advance the state-of-the-art of computer vision for autonomous systems, e.g., in robust vision (CVPR’21), human action recognition trajectory forecasting (CVPR’21), etc. Examples from the simulation environment and challenge can be seen below (as well as the final page of this proposal). We aim to use the challenge, together with a broad panel of speakers to uncover research opportunities and broadly spark the interest of computer vision and AI researchers working on more inclusive visual reasoning models in the future.
- </div>
-<div class = "center">
-    <img alt="fig1" src="pics/fig1.svg" >
-    <p>Fig. 1: An interactive simulation environment will be used as part of the workshop challenge for training machine perception and learning models in the context of accessibility (taken from <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_X-World_Accessibility_Vision_and_Autonomy_Meet_ICCV_2021_paper.pdf">bit.ly/2X8sYoX</a>).</p>
-</div>
-<br>
-<div class = "center">
-    <img alt="fig2" src="pics/fig2.svg" >
-    <p>Fig. 2: Various tasks and modalities incorporating use-cases of autonomous robots interacting with pedestrians with disabilities.</p>
-</div>
-<br>
-
-## Competition
-
-<div style="text-align: justify">
-We will use the recently introduced fine-grained instance segmentation benchmark from our ICCV 2021 paper (<a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_X-World_Accessibility_Vision_and_Autonomy_Meet_ICCV_2021_paper.pdf">bit.ly/2X8sYoX</a>, Zhang et al., X-World:Accessibility, Vision, and Autonomy Meet)
-The dataset involves a large synthetic and real-world set of images with pedestrians with mobility aids. Evaluation follows COCO evaluation, but with novel categories. Classes such as ‘cane’ currently have very low performance by Mask R-CNN (less than 1% accuracy). Moreover, people in wheelchairs tend to result in degraded performances as well (~50% reduction in relative performance). The benchmark is quite challenging, spanning weathers, towns, scenarios, camera perspectives, use-cases, and mobility aids. In terms of ethical considerations, we emphasize that this work does not imply prioritization of the decision-making (e.g., as a trolley problem). Our primary concern is with uncovering challenges which may impact perception of pedestrians with disabilities disproportionately. The videos used to construct the real-world dataset were voluntarily uploaded and shared in public domain sources, often for educational purposes. We also plan to expand upon the benchmark in the original ICCV paper in dataset size and tasks for the workshop. Submissions will be evaluated using a submission server (e.g., CodaLab/Kaggle). Assuming acceptance of the workshop proposal in December, we will release the benchmark in January, with a deadline in June to ensure ample time for the participants. Currently, the benchmark is mostly ready for release, however we would like to set up a suitable evaluation server and provide additional perception tasks to engage various computer vision researchers. Two example ground truth images are shown below:
-
-</div>
-<div class = "center">
-<img alt="fig3a" src="pics/fig3a.svg" >
-
-<img alt="fig3b" src="pics/fig3b.svg" style = "display: block;  margin-left: auto;   margin-right: auto;">
-<p>Fig. 3: The workshop challenge will include an instance segmentation task in simulation and real-world data.</p>
-</div>
-
-
-
-<!-- Please refer to the **[challenge page](./challenge.html)** for more details. -->
-
-The challenge deadlines are as follows:
-- Challenge announcement: <strong>TBD</strong>
-- Release of testing data: <strong>TBD</strong>
-- Leaderboard open: <strong>TBD</strong>
-- Challenge submission deadline [paper track]: <strong>TBD</strong>
-- Challenge submission deadline: <strong>TBD</strong>
-- Winner announcement: <strong>TBD</strong>
-
 ## Schedule
 
 | Time | Event | Duration |
@@ -295,6 +243,94 @@ The challenge deadlines are as follows:
 
 | --- | --- |
 |  |  |
+
+
+
+<!-- ## Call for papers
+We invite interested researchers to submit relevant work related to robust learning for real-world applications. Please refer to the **[call for papers](./call-for-papers.html)** page for more details. -->
+
+<div style="text-align: center">
+<u><g8>Challenge</g8></u>
+</div>
+
+
+## Challenge overview
+<div style="text-align: justify">
+Towards building a community of accessibility research in computer vision conferences, we will introduce a relevant machine perception challenge with synthetic and real-world benchmarks. The challenge (based on our ICCV’21 paper, <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_X-World_Accessibility_Vision_and_Autonomy_Meet_ICCV_2021_paper.pdf">bit.ly/2X8sYoX</a>) will be used to benchmark various computer vision tasks when comparing new and established methods for fine-grained perception of tasks relevant to people with disabilities. The challenge is designed in the spirit of various other vision challenges that help advance the state-of-the-art of computer vision for autonomous systems, e.g., in robust vision (CVPR’21), human action recognition trajectory forecasting (CVPR’21), etc. Examples from the simulation environment and challenge can be seen below (as well as the final page of this proposal). We aim to use the challenge, together with a broad panel of speakers to uncover research opportunities and broadly spark the interest of computer vision and AI researchers working on more inclusive visual reasoning models in the future.
+ </div>
+<div class = "center">
+    <img alt="fig1" src="pics/fig1.svg" >
+    <p>Fig. 1: An interactive simulation environment will be used as part of the workshop challenge for training machine perception and learning models in the context of accessibility (taken from <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_X-World_Accessibility_Vision_and_Autonomy_Meet_ICCV_2021_paper.pdf">bit.ly/2X8sYoX</a>).</p>
+</div>
+<br>
+<div class = "center">
+    <img alt="fig2" src="pics/fig2.svg" >
+    <p>Fig. 2: Various tasks and modalities incorporating use-cases of autonomous robots interacting with pedestrians with disabilities.</p>
+</div>
+<br>
+
+## Competition
+
+<div style="text-align: justify">
+We will use the recently introduced fine-grained instance segmentation benchmark from our ICCV 2021 paper (<a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_X-World_Accessibility_Vision_and_Autonomy_Meet_ICCV_2021_paper.pdf">bit.ly/2X8sYoX</a>, Zhang et al., X-World:Accessibility, Vision, and Autonomy Meet)
+The dataset involves a large synthetic and real-world set of images with pedestrians with mobility aids. Evaluation follows COCO evaluation, but with novel categories. Classes such as ‘cane’ currently have very low performance by Mask R-CNN (less than 1% accuracy). Moreover, people in wheelchairs tend to result in degraded performances as well (~50% reduction in relative performance). The benchmark is quite challenging, spanning weathers, towns, scenarios, camera perspectives, use-cases, and mobility aids. In terms of ethical considerations, we emphasize that this work does not imply prioritization of the decision-making (e.g., as a trolley problem). Our primary concern is with uncovering challenges which may impact perception of pedestrians with disabilities disproportionately. The videos used to construct the real-world dataset were voluntarily uploaded and shared in public domain sources, often for educational purposes. We also plan to expand upon the benchmark in the original ICCV paper in dataset size and tasks for the workshop. Submissions will be evaluated using a submission server (e.g., CodaLab/Kaggle). Assuming acceptance of the workshop proposal in December, we will release the benchmark in January, with a deadline in June to ensure ample time for the participants. Currently, the benchmark is mostly ready for release, however we would like to set up a suitable evaluation server and provide additional perception tasks to engage various computer vision researchers. Two example ground truth images are shown below:
+
+</div>
+<div class = "center">
+<img alt="fig3a" src="pics/fig3a.svg" >
+
+<img alt="fig3b" src="pics/fig3b.svg" style = "display: block;  margin-left: auto;   margin-right: auto;">
+<p>Fig. 3: The workshop challenge will include an instance segmentation task in simulation and real-world data.</p>
+</div>
+
+
+<div style="text-align: center">
+<u><g8>Call for papers</g8></u>
+</div>
+## Topics
+
+The goal of this workshop is to explore the following fundamental problems:
+1. AI for Accessibility
+2. Accessibility-Centered Computer Vision Tasks and Datasets 
+3. Data-Driven Accessibility Tools, Metrics and Evaluation Frameworks
+4. Practical Challenges in Ability-Based Assistive Technologies 
+5. Accessibility in Robotics and Autonomous Vehicles
+6. Long-Tail/Low-Shot Recognition of Accessibility-Based Tasks
+7. Accessible Homes, Hospitals, Cities, Infrastructure, Transportation 
+8. Crowdsourcing and Annotation Tools for Vision and Accessibility
+9. Impirical Real-World Studies in Inclusive System Design
+10. Assistive Human-Robot Interaction 
+11. Remote Accessibility Systems 
+12. Multi-Modal (Audio, Visual, Inertial, Haptic) Learning and Interaction
+13. Accessible Mobile and Information Technologies
+14. Virtual, Augmented, and Mixed Reality for Accessibility
+15. Novel Designs for Robotic, Wearable and Smartphone-Based Assistance
+16. Intelligent Assistive Embodied and Navigational Agents 
+17. Socially Assistive Mobile Applications
+18. User-in-the-Loop Machine Learning Techniques
+19. Accessible Tutoring and Education
+20. Personalization for Diverse Physical, Motor, and Cognitive Abilities
+21. Embedded/Hardware-Optimized Assistive Systems
+22. Intelligent Robotic Wheelchairs
+23. Medical and Social/Cultural Models of Disability
+24. New Frameworks for Taxonomies and Terminology 
+
+## Important workshop dates
+- Workshop announcement: <strong>TBD</strong>
+- Workshop paper submission deadline: <strong>TBD</strong>
+- Notification to authors: <strong>TBD</strong>
+- Camera ready deadline: <strong>TBD</strong>
+
+
+<!-- Please refer to the **[challenge page](./challenge.html)** for more details. -->
+
+The challenge deadlines are as follows:
+- Challenge announcement: <strong>TBD</strong>
+- Release of testing data: <strong>TBD</strong>
+- Leaderboard open: <strong>TBD</strong>
+- Challenge submission deadline [paper track]: <strong>TBD</strong>
+- Challenge submission deadline: <strong>TBD</strong>
+- Winner announcement: <strong>TBD</strong>
 
 
 ### Join our **[mailing list](https://staging-temp-site.github.io/staging-temp-site.gitub.io/)** for updates.
