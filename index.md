@@ -298,7 +298,7 @@ The dataset involves a large synthetic and real-world set of images with pedestr
 <div class = "center">
 <img alt="fig3a" src="pics/fig3a.svg" >
 
-<img alt="fig3b" src="pics/fig3b.svg" >
+<img alt="fig3b" src="pics/fig3b.svg" style = "display: block;  margin-left: auto;   margin-right: auto;">
 <p>Fig. 3: The workshop challenge will include an instance segmentation task in simulation and real-world data.</p>
 </div>
 
