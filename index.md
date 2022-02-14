@@ -261,12 +261,12 @@ Towards building a community of accessibility research in computer vision confer
     <img alt="fig1" src="pics/fig1.svg" >
     <p>Fig. 1: An interactive simulation environment will be used as part of the workshop challenge for training machine perception and learning models in the context of accessibility (taken from <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_X-World_Accessibility_Vision_and_Autonomy_Meet_ICCV_2021_paper.pdf">bit.ly/2X8sYoX</a>).</p>
 </div>
-<br>
+<br>-->
 <div class = "center">
     <img alt="fig2" src="pics/fig2.svg" >
-    <p>Fig. 2: Various tasks and modalities incorporating use-cases of autonomous robots interacting with pedestrians with disabilities.</p>
+    <p>Fig. 1: Various tasks and modalities incorporating use-cases of autonomous robots interacting with pedestrians with disabilities.</p>
 </div>
-<br> -->
+<br> 
 
 ## Challenge
 
