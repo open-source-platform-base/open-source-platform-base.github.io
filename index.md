@@ -1,6 +1,13 @@
 ---
 layout: default
 ---
+<style> 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+} </style>
 
 # Overview
 <div style="text-align: justify">
