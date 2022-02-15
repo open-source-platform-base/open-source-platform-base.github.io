@@ -270,9 +270,9 @@ The dataset involves a large synthetic and real-world set of images with pedestr
     <p>Fig. 1: Various tasks and modalities incorporating use-cases of autonomous robots interacting with pedestrians with disabilities.</p>
 </div>
 <br> 
-<!--
-</div>
-<div class = "center">
+
+
+<!--div class = "center">
 <img alt="fig3a" src="pics/fig3a.svg" >
 -->
  <!-- <img alt="fig3b" src="pics/fig3b.svg" style = "display: block;  margin-left: auto;   margin-right: auto;">
