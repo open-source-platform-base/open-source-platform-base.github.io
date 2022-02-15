@@ -25,7 +25,7 @@
     .page-header {
   background-image: url('pics/fig1.svg');
   background-repeat: no-repeat;
-  background-size: 85% ;
+  background-size: 100% ;
   background-position: center;
     }
     .btn {
@@ -38,12 +38,12 @@
   border-width: 1px;
   border-radius: 0.3rem;
   transition: color 0.2s, background-color 0.2s, border-color 0.2s;
-
+    }
   </style>
     <section class="page-header">
       <!-- <img alt="logo" src="pics/placehold-logo.svg" class = "logo" > -->
-      <h1 class="project-name" style="color:#033169">{{ site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline" style="color:#033169">
+      <h1 class="project-name" style="color:#054592">{{ site.title | default: site.github.repository_name }}</h1>
+      <h2 class="project-tagline" style="color:#4f98f1">
       {%- for line in site.description -%}
       <span>{{ line }}</span><br>
       {%- endfor -%}
