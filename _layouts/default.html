@@ -25,15 +25,25 @@
     .page-header {
   background-image: url('pics/fig1.svg');
   background-repeat: no-repeat;
-  background-size: 84% ;
+  background-size: 85% ;
   background-position: center;
     }
+    .btn {
+  display: inline-block;
+  margin-bottom: 1rem;
+  color: rgba(163, 195, 245, 0.726);
+  background-color: rgba(163, 194, 245, 0.295);
+  border-color: rgba(0, 0, 0, 0.575);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0.3rem;
+  transition: color 0.2s, background-color 0.2s, border-color 0.2s;
 
   </style>
     <section class="page-header">
       <!-- <img alt="logo" src="pics/placehold-logo.svg" class = "logo" > -->
-      <h1 class="project-name" style="color: #0373fc">{{ site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline" style="color: #0373fc">
+      <h1 class="project-name" style="color:#033169">{{ site.title | default: site.github.repository_name }}</h1>
+      <h2 class="project-tagline" style="color:#033169">
       {%- for line in site.description -%}
       <span>{{ line }}</span><br>
       {%- endfor -%}
@@ -43,7 +53,7 @@
         <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
       {% endif %}
       {% for link in site.buttons %}
-        <a href="{{ link[1] }}" class="btn" style="color: #0373fc">{{ link[0] }}</a>
+        <a href="{{ link[1] }}" class="btn" style="color:#033169">{{ link[0] }}</a>
       {% endfor %}
     </section>
 
