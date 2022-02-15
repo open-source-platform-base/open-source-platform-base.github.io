@@ -279,9 +279,11 @@ The dataset involves a large synthetic and real-world set of images with pedestr
 </div> 
   -->
 
+
 <div style="text-align: center">
 <u><g8>Call for papers</g8></u>
 </div>
+
 
 ## Topics
 
@@ -310,6 +312,8 @@ The goal of this workshop is to explore the following fundamental problems:
 22. Intelligent Robotic Wheelchairs
 23. Medical and Social/Cultural Models of Disability
 24. New Frameworks for Taxonomies and Terminology 
+
+
 
 ## Important workshop dates
 - Workshop announcement: <strong>TBD</strong>
