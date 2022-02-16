@@ -28,7 +28,7 @@
       background-color: transparent;
     } 
     
-    .page-header {
+    .page-header1 {
   background-image: url('pics/4_1.jpg');
   background-repeat: no-repeat;
   background-size: 100% ;
@@ -46,7 +46,7 @@
   transition: color 0.2s, background-color 0.2s, border-color 0.2s;
     }
   </style>
-    <section class="page-header">
+    <section class="page-header page-header1">
       <!-- <img alt="logo" src="pics/placehold-logo.svg" class = "logo" > -->
       <h1 class="project-name" style="color:#ffffff; text-shadow: -1px -1px 0 #c911f7, 1px -1px 0 #c911f7, -1px 1px 0 #c911f7, 1px 1px 0 #c911f7;">{{ site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline" style="color:#ffffff ;  opacity: 100%; text-shadow: -1px -1px 0 #c911f7, 1px -1px 0 #c911f7, -1px 1px 0 #c911f7, 1px 1px 0 #c911f7;">
@@ -60,9 +60,7 @@
       {% endif %}
       
     </section>
-    <section style = "display: block;
-    margin-left: auto;
-    margin-right: auto;">
+    <section class="page-header">
     {% for link in site.buttons %}
     <a href="{{ link[1] }}" class="btn" style="color:#ffffff ; font-size: large; text-shadow: -1px -1px 0 #c911f7, 1px -1px 0 #c911f7, -1px 1px 0 #c911f7, 1px 1px 0 #c911f7;">{{ link[0] }}</a>
   {% endfor %}
