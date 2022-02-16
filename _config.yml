@@ -5,7 +5,7 @@ description:
 - June 20, 2022
 - New Orleans, Louisiana
 buttons:
- Overview: './index.html'
+  Overview: './index.html'
   Invited speakers: './index.html#invited-speakers'
   Call for papers: './index.html#topics'
   Challenge details: './index.html#challenge-overview'
