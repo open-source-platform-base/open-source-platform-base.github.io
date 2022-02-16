@@ -290,7 +290,7 @@ The goal of this workshop is to explore the following fundamental problems:
 6. Long-Tail/Low-Shot Recognition of Accessibility-Based Tasks
 7. Accessible Homes, Hospitals, Cities, Infrastructure, Transportation 
 8. Crowdsourcing and Annotation Tools for Vision and Accessibility
-9. Impirical Real-World Studies in Inclusive System Design
+9. Empirical Real-World Studies in Inclusive System Design
 10. Assistive Human-Robot Interaction 
 11. Remote Accessibility Systems 
 12. Multi-Modal (Audio, Visual, Inertial, Haptic) Learning and Interaction
