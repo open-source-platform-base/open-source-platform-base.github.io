@@ -36,7 +36,7 @@
     }
     .btn {
   display: inline-block;
-  margin-bottom: 1rem;
+  margin-bottom: 10rem;
   color: rgba(0, 0, 0, 0.99); 
   background-color: rgba(0, 0, 0, 0.8);
   border-color: rgba(0, 0, 0, 0.918);
@@ -60,9 +60,6 @@
       {% endif %}
       
       {% for link in site.buttons %}
-       <br>
-        <br>
-        <br>
         <a href="{{ link[1] }}" class="btn" style="color:#ffffff ; font-size: large; text-shadow: -1px -1px 0 #c911f7, 1px -1px 0 #c911f7, -1px 1px 0 #c911f7, 1px 1px 0 #c911f7;">{{ link[0] }}</a>
       {% endfor %}
     </section>
