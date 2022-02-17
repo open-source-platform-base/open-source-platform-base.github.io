@@ -279,9 +279,9 @@ Topics of interests by this workshop include, but are not limited to:
 
   <ol>
   <li>AI for Accessibility</li>
-2. Accessibility-Centered Computer Vision Tasks and Datasets 
-3. Data-Driven Accessibility Tools, Metrics and Evaluation Frameworks
-4. Practical Challenges in Ability-Based Assistive Technologies 
+  <li>Accessibility-Centered Computer Vision Tasks and Datasets</li>
+  <li>Data-Driven Accessibility Tools, Metrics and Evaluation Frameworks</li>
+  <li>Practical Challenges in Ability-Based Assistive Technologies</li>
 5. Accessibility in Robotics and Autonomous Vehicles
 6. Long-Tail and Low-Shot Recognition of Accessibility-Based Tasks
 7. Accessible Homes, Hospitals, Cities, Infrastructure, Transportation 
