@@ -274,9 +274,7 @@ The challenge involves a synthethic instance segmentation benchmark incorporatin
 ## Call for Papers
 
 <div style="text-align: justify">
-
 We encourage submission of relevant research (including work in progress) as extended abstracts for the poster session and workshop discussion (up to 4 pages in CVPR format).
-
 Topics of interests by this workshop include, but are not limited to:
 
 1. AI for Accessibility
@@ -284,7 +282,7 @@ Topics of interests by this workshop include, but are not limited to:
 3. Data-Driven Accessibility Tools, Metrics and Evaluation Frameworks
 4. Practical Challenges in Ability-Based Assistive Technologies 
 5. Accessibility in Robotics and Autonomous Vehicles
-6. Long-Tail/Low-Shot Recognition of Accessibility-Based Tasks
+6. Long-Tail and Low-Shot Recognition of Accessibility-Based Tasks
 7. Accessible Homes, Hospitals, Cities, Infrastructure, Transportation 
 8. Crowdsourcing and Annotation Tools for Vision and Accessibility
 9. Empirical Real-World Studies in Inclusive System Design
@@ -296,12 +294,12 @@ Topics of interests by this workshop include, but are not limited to:
 15. Novel Designs for Robotic, Wearable and Smartphone-Based Assistance
 16. Intelligent Assistive Embodied and Navigational Agents 
 17. Socially Assistive Mobile Applications
-18. User-in-the-Loop Machine Learning Techniques
+18. Human-in-the-Loop Machine Learning Techniques
 19. Accessible Tutoring and Education
 20. Personalization for Diverse Physical, Motor, and Cognitive Abilities
-21. Embedded/Hardware-Optimized Assistive Systems
+21. Embedded Hardware-Optimized Assistive Systems
 22. Intelligent Robotic Wheelchairs
-23. Medical and Social/Cultural Models of Disability
+23. Medical and Social and Cultural Models of Disability
 24. New Frameworks for Taxonomies and Terminology 
 </div>
 
@@ -337,4 +335,5 @@ Topics of interests by this workshop include, but are not limited to:
       
     </div>
   </div--> 
+  --!>
 
