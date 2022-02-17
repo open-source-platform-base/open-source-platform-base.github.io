@@ -306,9 +306,9 @@ Topics of interests by this workshop include, but are not limited to:
 </div>
 
 ## Important workshop dates
+- Challenge release: <strong>February 27, 2022.</strong>
 - Workshop abstract submission deadline: <strong>May 31, 2022.</strong>
 - Camera ready deadline: <strong>June 10, 2022.</strong>
-- Challenge release: <strong>February 27, 2022.</strong>
 - Challenge submission deadline: <strong>June 10, 2022.</strong>
 - Challenge winner announcement: <strong>June 20, 2022.</strong>
 
