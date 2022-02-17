@@ -28,17 +28,21 @@
       background-color: transparent;
     } 
     
-    .page-header {
+    .page-header1 {
   background-image: url('pics/4_1.jpg');
   background-repeat: no-repeat;
   background-size: 100% ;
   background-position: center;
     }
+  .page-header2 {
+  background-color: #ffffff;
+  background-image: linear-gradient(120deg, #ffffff, #ffffff);
+  }
     .btn {
   display: inline-block;
-  margin-bottom: 10rem;
-  color: rgba(0, 0, 0, 0.99); 
-  background-color: rgba(0, 0, 0, 0.8);
+  margin-bottom: 1rem;
+  color: rgba(0, 0, 0, 0.897);
+  background-color: rgba(117, 117, 117, 0.877);
   border-color: rgba(0, 0, 0, 0.918);
   border-style: solid;
   border-width: 1px;
@@ -46,7 +50,7 @@
   transition: color 0.2s, background-color 0.2s, border-color 0.2s;
     }
   </style>
-    <section class="page-header">
+    <section class="page-header page-header1">
       <!-- <img alt="logo" src="pics/placehold-logo.svg" class = "logo" > -->
       <h1 class="project-name" style="color:#ffffff; text-shadow: -1px -1px 0 #c911f7, 1px -1px 0 #c911f7, -1px 1px 0 #c911f7, 1px 1px 0 #c911f7;">{{ site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline" style="color:#ffffff ;  opacity: 100%; text-shadow: -1px -1px 0 #c911f7, 1px -1px 0 #c911f7, -1px 1px 0 #c911f7, 1px 1px 0 #c911f7;">
@@ -58,12 +62,15 @@
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
         <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
       {% endif %}
-      
-      {% for link in site.buttons %}
-        <a href="{{ link[1] }}" class="btn" style="color:#ffffff ; font-size: large; text-shadow: -1px -1px 0 #c911f7, 1px -1px 0 #c911f7, -1px 1px 0 #c911f7, 1px 1px 0 #c911f7;">{{ link[0] }}</a>
-      {% endfor %}
-    </section>
+       {% for link in site.buttons %}
+       <br>
+       <br>
+    <a href="{{ link[1] }}" class="btn" style="color:#ffffff ; font-size: large; text-shadow: -1px -1px 0 #c911f7, 1px -1px 0 #c911f7, -1px 1px 0 #c911f7, 1px 1px 0 #c911f7;">{{ link[0] }}</a>
+  {% endfor %}
 
+    </section>
+    
+   
     <section class="main-content">
       {{ content }}
 
