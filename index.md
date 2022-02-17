@@ -282,7 +282,8 @@ The dataset involves a large synthetic and real-world set of images with pedestr
 <div style="text-align: justify">
 
 We encourage submission of relevant work as extended abstracts (up to 4 pages, CVPR format) for the poster session and workshop discussion.
-Topics of interests by this workshop include, but are not limited to:
+
+  Topics of interests by this workshop include, but are not limited to:
 
 1. AI for Accessibility
 2. Accessibility-Centered Computer Vision Tasks and Datasets 
