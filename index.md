@@ -281,27 +281,27 @@ Topics of interests by this workshop include, but are not limited to:
   <li>AI for Accessibility</li>
   <li>Accessibility-Centered Computer Vision Tasks and Datasets</li>
   <li>Data-Driven Accessibility Tools, Metrics and Evaluation Frameworks</li>
-  <li>Practical Challenges in Ability-Based Assistive Technologies</li>
-5. Accessibility in Robotics and Autonomous Vehicles
-6. Long-Tail and Low-Shot Recognition of Accessibility-Based Tasks
-7. Accessible Homes, Hospitals, Cities, Infrastructure, Transportation 
-8. Crowdsourcing and Annotation Tools for Vision and Accessibility
-9. Empirical Real-World Studies in Inclusive System Design
-10. Assistive Human-Robot Interaction 
-11. Remote Accessibility Systems 
-12. Multi-Modal (Audio, Visual, Inertial, Haptic) Learning and Interaction
-13. Accessible Mobile and Information Technologies
-14. Virtual, Augmented, and Mixed Reality for Accessibility
-15. Novel Designs for Robotic, Wearable and Smartphone-Based Assistance
-16. Intelligent Assistive Embodied and Navigational Agents 
-17. Socially Assistive Mobile Applications
-18. Human-in-the-Loop Machine Learning Techniques
-19. Accessible Tutoring and Education
-20. Personalization for Diverse Physical, Motor, and Cognitive Abilities
-21. Embedded Hardware-Optimized Assistive Systems
-22. Intelligent Robotic Wheelchairs
-23. Medical and Social and Cultural Models of Disability
-24. New Frameworks for Taxonomies and Terminology 
+  <li>Practical Challenges in Ability-Based Assistive Technologies</li>  
+  <li>Accessibility in Robotics and Autonomous Vehicles</li>  
+  <li>Long-Tail and Low-Shot Recognition of Accessibility-Based Tasks</li>  
+  <li>Accessible Homes, Hospitals, Cities, Infrastructure, Transportation</li>   
+  <li>Crowdsourcing and Annotation Tools for Vision and Accessibility</li>  
+  <li>Empirical Real-World Studies in Inclusive System Design</li>  
+  <li>Assistive Human-Robot Interaction</li>  
+  <li>Remote Accessibility Systems</li>   
+  <li>Multi-Modal (Audio, Visual, Inertial, Haptic) Learning and Interaction</li>  
+  <li>Accessible Mobile and Information Technologies</li>  
+  <li>Virtual, Augmented, and Mixed Reality for Accessibility</li>  
+  <li>Novel Designs for Robotic, Wearable and Smartphone-Based Assistance</li>  
+  <li>Intelligent Assistive Embodied and Navigational Agents</li>   
+  <li>Socially Assistive Mobile Applications</li>  
+  <li>Human-in-the-Loop Machine Learning Techniques</li>  
+  <li>Accessible Tutoring and Education</li>  
+  <li>Personalization for Diverse Physical, Motor, and Cognitive Abilities</li>  
+  <li>Embedded Hardware-Optimized Assistive Systems</li>  
+  <li>Intelligent Robotic Wheelchairs</li>  
+  <li>Medical and Social and Cultural Models of Disability</li>  
+  <li>New Frameworks for Taxonomies and Terminology</li>  
     </ol>
 </div>
 
