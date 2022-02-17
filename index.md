@@ -110,7 +110,7 @@ The overarching goal of this workshop is to gather researchers, students, and ad
 | 12:15-12:45 | Panel discussion | (30 min)
 | 12:45-13:30 | posters/demo spotlights | (45 min)
  -->
-Full program will be coming soon with 30-min keynotes, poster session & panel discussion.
+Full program will be coming soon with 30-min keynotes, panel discussion, challenge results and winners, and poster session.
 
 ## Organizers
 <div style="display: flex">
@@ -276,14 +276,15 @@ The dataset involves a large synthetic and real-world set of images with pedestr
 
 
 
-<div style="text-align: center">
-<u><g8>Call for papers</g8></u>
-</div>
 
+## Call for Papers
 
-## Topicsl
+<div style="text-align: justify">
 
-The goal of this workshop is to explore the following fundamental problems:
+We encourage submission of extended abstracts (up to 4 pages, CVPR format) for the poster session.
+
+Topics of interests by this workshop include, but are not limited to:
+
 1. AI for Accessibility
 2. Accessibility-Centered Computer Vision Tasks and Datasets 
 3. Data-Driven Accessibility Tools, Metrics and Evaluation Frameworks
@@ -308,8 +309,7 @@ The goal of this workshop is to explore the following fundamental problems:
 22. Intelligent Robotic Wheelchairs
 23. Medical and Social/Cultural Models of Disability
 24. New Frameworks for Taxonomies and Terminology 
-
-
+</div>
 
 ## Important workshop dates
 - Workshop announcement: <strong>TBD</strong>
