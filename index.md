@@ -277,7 +277,8 @@ The challenge involves a synthethic instance segmentation benchmark incorporatin
 We encourage submission of relevant research (including work in progress) as extended abstracts for the poster session and workshop discussion (up to 4 pages in CVPR format).
 Topics of interests by this workshop include, but are not limited to:
 
-1. AI for Accessibility
+  <ol>
+  <li>AI for Accessibility</li>
 2. Accessibility-Centered Computer Vision Tasks and Datasets 
 3. Data-Driven Accessibility Tools, Metrics and Evaluation Frameworks
 4. Practical Challenges in Ability-Based Assistive Technologies 
@@ -301,6 +302,7 @@ Topics of interests by this workshop include, but are not limited to:
 22. Intelligent Robotic Wheelchairs
 23. Medical and Social and Cultural Models of Disability
 24. New Frameworks for Taxonomies and Terminology 
+    </ol>
 </div>
 
 ## Important workshop dates
