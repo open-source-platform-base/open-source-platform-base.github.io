@@ -238,7 +238,7 @@ Full program will be coming soon with 30-min keynotes, panel discussion, challen
 
 
 <!-- ## Call for papers -->
-<!-- We invite interested researchers to submit relevant work related to robust learning for real-world applications. Please refer to the **[call for papers](./call-for-papers.html)** page for more details. -->
+<!-- Please refer to the **[call for papers](./call-for-papers.html)** page for more details. -->
 
 <!-- 
 <div style="text-align: center">
@@ -281,8 +281,7 @@ The dataset involves a large synthetic and real-world set of images with pedestr
 
 <div style="text-align: justify">
 
-We encourage submission of extended abstracts (up to 4 pages, CVPR format) for the poster session.
-
+We encourage submission of relevant work as extended abstracts (up to 4 pages, CVPR format) for the poster session and workshop discussion.
 Topics of interests by this workshop include, but are not limited to:
 
 1. AI for Accessibility
