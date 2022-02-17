@@ -6,10 +6,11 @@ description:
 - New Orleans, Louisiana
 buttons:
   Overview: './index.html'
-  Invited speakers: './index.html#invited-speakers'
-  Call for papers: './index.html#topics'
-  Challenge details: './index.html#challenge-overview'
-  Important dates: './index.html#important-workshop-dates'
+  Invited Speakers: './index.html#invited-speakers'
   Schedule: './index.html#schedule'
+  Organizers: './index.html#organizers'
+  Call for Papers: './index.html#topics'
+  Challenge: './index.html#challenge-overview'
+  Important Dates: './index.html#important-workshop-dates'
 github:
   is_project_page: false
