@@ -11,7 +11,7 @@ layout: default
 
 # Overview
 <div style="text-align: justify">
-The overarching goal of this workshop is to gather researchers, students, and advocates who work at the intersection of accessibility, computer vision, and autonomous systems. We plan to use the workshop to identify challenges and pursue solutions for the current lack of shared and principled development tools for data-driven vision-based accessibility systems. For instance, there is a general lack of vision-based benchmarks and methods relevant to accessibility (e.g., people with disabilities and mobility aids are currently mostly absent from large-scale datasets in pedestrian detection). More broadly, our workshop will provide a unique opportunity for fostering a mutual discussion between accessibility, computer vision, and robotics researchers. 
+The overarching goal of this workshop is to gather researchers, students, and advocates who work at the intersection of accessibility, computer vision, and autonomous systems. We plan to use the workshop to identify challenges and pursue solutions for the current lack of shared and principled development tools for data-driven vision-based accessibility systems. For instance, there is a general lack of vision-based benchmarks and methods relevant to accessibility (e.g., people with disabilities and mobility aids are currently mostly absent from large-scale datasets in pedestrian detection). Our workshop will provide a unique opportunity for fostering a mutual discussion between accessibility, computer vision, and robotics researchers and practitioners.
 </div>
 
 # Invited Speakers
@@ -309,6 +309,7 @@ Topics of interests by this workshop include, but are not limited to:
 - Challenge release: <strong>February 27, 2022.</strong>
 - Workshop abstract submission deadline: <strong>May 31, 2022.</strong>
 - Camera ready deadline: <strong>June 10, 2022.</strong>
+- Acceptance notification: <strong>June 15, 2022.</strong>
 - Challenge submission deadline: <strong>June 10, 2022.</strong>
 - Challenge winner announcement: <strong>June 20, 2022.</strong>
 
