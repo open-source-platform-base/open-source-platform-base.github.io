@@ -274,7 +274,7 @@ The challenge involves a synthetic instance segmentation benchmark incorporating
 ## Call for Papers
 
 <div style="text-align: justify">
-We encourage submission of relevant research (including work in progress) as extended abstracts for the poster session and workshop discussion (up to 4 pages in CVPR format).
+We encourage submission of relevant research (including work in progress, novel perspectives, formative studies, benchmarks, methods) as extended abstracts for the poster session and workshop discussion (up to 4 pages in CVPR format). All submitted posters will be shared at the workshop. 
 Topics of interests by this workshop include, but are not limited to:
 
   <ol>
@@ -307,9 +307,7 @@ Topics of interests by this workshop include, but are not limited to:
 
 ## Important workshop dates
 - Challenge release: <strong>February 27, 2022.</strong>
-- Workshop abstract submission deadline: <strong>May 31, 2022.</strong>
-- Camera ready deadline: <strong>June 10, 2022.</strong>
-- Acceptance notification: <strong>June 15, 2022.</strong>
+- Workshop abstract submission deadline: <strong>June 10, 2022.</strong>
 - Challenge submission deadline: <strong>June 10, 2022.</strong>
 - Challenge winner announcement: <strong>June 20, 2022.</strong>
 
