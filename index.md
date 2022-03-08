@@ -283,6 +283,51 @@ The challenge involves a synthetic instance segmentation benchmark incorporating
   
 </div>
 
+## Challenge Organization
+
+<div style="display: flex">
+  <div style="width:22.5%">
+    <a href="https://twitter.com/jimuyang?lang=en">
+    <img alt="Jimuyang Zhang" src="pics/jimuyang_zhang.jpg" height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    </a><br>
+    <a href="https://twitter.com/jimuyang?lang=en">Jimuyang Zhang</a><br>
+    Boston University
+  </div>
+  
+  <div style="width:2.5%">
+  </div>
+   
+  <div style="width:22.5%">
+    <a href="">
+    <img alt="Zhongkai Shangguan" src="pics/placeholder.jpg"  height="200"   width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    </a><br>
+  <a href="">Zhongkai Shangguan</a><br>
+    Boston University
+  </div>
+  
+  <div style="width:2.5%">
+  </div>
+   
+  <div style="width:22.5%">
+    <a href="">
+    <img alt="Minglan Zheng" src="pics/placeholder.jpg"  height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    </a><br>
+  <a href="">Minglan Zheng</a><br>
+    Boston University
+  </div>
+  
+  <div style="width:2.5%">
+  </div>
+<!--    
+  <div style="width:22.5%">
+    <a href="http://ai.bu.edu/ksaenko.html#">
+    <img alt="Kate Saenko" src="pics/kate_saenko.png"   height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    </a><br>
+  <a href="http://ai.bu.edu/ksaenko.html#">Kate Saenko</a><br>
+   Boston University
+  </div> -->
+</div>
+
 ## Call for Papers
 
 <div style="text-align: justify">
