@@ -268,13 +268,25 @@ Towards building a community of accessibility research in computer vision confer
 ## Challenge
 
 <div style="text-align: justify">
-The challenge involves a synthetic instance segmentation benchmark incorporating use-cases of autonomous systems interacting with pedestrians with disabilities based on Zhang et al., X-World: Accessibility, Vision, and Autonomy Meet, ICCV 2021 (<a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_X-World_Accessibility_Vision_and_Autonomy_Meet_ICCV_2021_paper.pdf">bit.ly/2X8sYoX</a>). The benchmark contains challenging accessibility-related person and object categories, such as `cane' and `wheelchair.' We aim to use the challenge to uncover research opportunities and spark the interest of computer vision and AI researchers working on more robust visual reasoning models for accessibility.
+The challenge involves a synthetic instance segmentation benchmark incorporating use-cases of autonomous systems interacting with pedestrians with disabilities (see Zhang et al., X-World: Accessibility, Vision, and Autonomy Meet, ICCV 2021 <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_X-World_Accessibility_Vision_and_Autonomy_Meet_ICCV_2021_paper.pdf">bit.ly/2X8sYoX</a>). The benchmark contains challenging accessibility-related person and object categories, such as `cane' and `wheelchair.' We aim to use the challenge to uncover research opportunities and spark the interest of computer vision and AI researchers working on more robust visual reasoning models for accessibility. 
+  
+<div class = "center">
+    <img alt="fig2" src="pics/i1.jpg" >
+    <p>An example from the instance segmentation challenge for perceiving people with mobility aids.</p>
+</div>
+  <br>
+  The team with the top performing submission will be invited to give short talks during the workshop and will receive a financial award of <b>$500</b> and a <a href="https://store.opencv.ai/products/oak-d">OAK—D camera</a>. 
+  <br><br>
+  Training dataset: <a href="https://drive.google.com/drive/folders/1r8ZEzJLYjWy4J-0DYcvFRaJD7A6zWvoL?usp=sharing">Download(30 GB)</a>
+  <br>
+  Testing dataset: Download (will be released in March)
+  
 </div>
 
 ## Call for Papers
 
 <div style="text-align: justify">
-We encourage submission of relevant research (including work in progress, novel perspectives, formative studies, benchmarks, methods) as extended abstracts for the poster session and workshop discussion (up to 4 pages in CVPR format). All submitted posters will be shared at the workshop. 
+We encourage submission of relevant research (including work in progress, novel perspectives, formative studies, benchmarks, methods) as extended abstracts for the poster session and workshop discussion (up to 4 pages in CVPR format). 
 Topics of interests by this workshop include, but are not limited to:
 
   <ol>
@@ -307,8 +319,9 @@ Topics of interests by this workshop include, but are not limited to:
 
 ## Important workshop dates
 - Challenge release: <strong>February 27, 2022.</strong>
-- Workshop abstract submission deadline: <strong>June 10, 2022.</strong>
+- Workshop abstract submission deadline: <strong>June 10, 2022.</strong> 
 - Challenge submission deadline: <strong>June 10, 2022.</strong>
+- Abstract notification: <strong>June 13, 2022.</strong>
 - Challenge winner announcement: <strong>June 20, 2022.</strong>
 
 
