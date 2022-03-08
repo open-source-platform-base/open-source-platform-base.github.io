@@ -271,6 +271,51 @@ Towards building a community of accessibility research in computer vision confer
 The challenge involves a synthethic instance segmentation benchmark incorporating use-cases of autonomous systems interacting with pedestrians with disabilities based on Zhang et al., X-World: Accessibility, Vision, and Autonomy Meet, ICCV, 2021 (<a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_X-World_Accessibility_Vision_and_Autonomy_Meet_ICCV_2021_paper.pdf">bit.ly/2X8sYoX</a>). The benchmark contains challenging accessibility-related person and object cateogries, such as `cane' and `wheelchair.' We aim to use the challenge to uncover research opportunities and spark the interest of computer vision and AI researchers working on more robust visual reasoning models for accessibility.
 </div>
 
+## Challenge Organization
+
+<div style="display: flex">
+  <div style="width:22.5%">
+    <a href="https://twitter.com/jimuyang?lang=en">
+    <img alt="Jimuyang Zhang" src="pics/jimuyang_zhang.jpg" height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    </a><br>
+    <a href="https://twitter.com/jimuyang?lang=en">Jimuyang Zhang</a><br>
+    Boston University
+  </div>
+  
+  <div style="width:2.5%">
+  </div>
+   
+  <div style="width:22.5%">
+    <a href="">
+    <img alt="Zhongkai Shangguan" src="pics/placeholder.jpg"  height="200"   width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    </a><br>
+  <a href="">Zhongkai Shangguan</a><br>
+    Boston University
+  </div>
+  
+  <div style="width:2.5%">
+  </div>
+   
+  <div style="width:22.5%">
+    <a href="">
+    <img alt="Minglan Zheng" src="pics/placeholder.jpg"  height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    </a><br>
+  <a href="">Minglan Zheng</a><br>
+    Boston University
+  </div>
+  
+  <div style="width:2.5%">
+  </div>
+<!--    
+  <div style="width:22.5%">
+    <a href="http://ai.bu.edu/ksaenko.html#">
+    <img alt="Kate Saenko" src="pics/kate_saenko.png"   height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    </a><br>
+  <a href="http://ai.bu.edu/ksaenko.html#">Kate Saenko</a><br>
+   Boston University
+  </div> -->
+</div>
+
 ## Call for Papers
 
 <div style="text-align: justify">
