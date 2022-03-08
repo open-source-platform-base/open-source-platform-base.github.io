@@ -116,7 +116,7 @@ Full program will be coming soon with 30-min keynotes, panel discussion, challen
 <div style="display: flex">
   <div style="width:22.5%">
     <a href="https://eshed1.github.io/">
-    <img alt="Eshed Ohn-Bar" src="pics/eshed_ohn_bar.jpg" height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    <img alt="Eshed Ohn-Bar" src="pics/eshed_ohn_bar.jpg"  width = 100% style =  "border-radius: 50%; object-fit: cover; ">
     </a><br>
     <a href="https://eshed1.github.io/">Eshed Ohn-Bar</a><br>
     Boston University
@@ -127,7 +127,7 @@ Full program will be coming soon with 30-min keynotes, panel discussion, challen
    
   <div style="width:22.5%">
     <a href="https://home.cs.colorado.edu/~DrG/AboutMe.html">
-    <img alt="Danna Gurari" src="pics/danna_gurari.jpg"  height="200"   width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    <img alt="Danna Gurari" src="pics/danna_gurari.jpg"  width = 100% style =  "border-radius: 50%; object-fit: cover; ">
     </a><br>
   <a href="https://home.cs.colorado.edu/~DrG/AboutMe.html">Danna Gurari</a><br>
     University of Colorado Boulder
@@ -138,7 +138,7 @@ Full program will be coming soon with 30-min keynotes, panel discussion, challen
    
   <div style="width:22.5%">
     <a href="http://www.cs.cmu.edu/~kkitani/">
-    <img alt="Kris Kitani" src="pics/kitani_kris.jpg"  height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    <img alt="Kris Kitani" src="pics/kitani_kris.jpg"   width = 100% style =  "border-radius: 50%; object-fit: cover; ">
     </a><br>
   <a href="http://www.cs.cmu.edu/~kkitani/">Kris Kitani</a><br>
     Carnegie Mellon University
@@ -149,7 +149,7 @@ Full program will be coming soon with 30-min keynotes, panel discussion, challen
    
   <div style="width:22.5%">
     <a href="http://ai.bu.edu/ksaenko.html#">
-    <img alt="Kate Saenko" src="pics/kate_saenko.png"   height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    <img alt="Kate Saenko" src="pics/kate_saenko.png"    width = 100% style =  "border-radius: 50%; object-fit: cover; ">
     </a><br>
   <a href="http://ai.bu.edu/ksaenko.html#">Kate Saenko</a><br>
    Boston University
@@ -159,7 +159,7 @@ Full program will be coming soon with 30-min keynotes, panel discussion, challen
 <div style="display: flex">
   <div style="width:22.5%">
     <a href="http://www.cvlibs.net/">
-    <img alt="Andreas Geiger" src="pics/andreas_geiger.jpg"   height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    <img alt="Andreas Geiger" src="pics/andreas_geiger.jpg"    width = 100% style =  "border-radius: 50%; object-fit: cover; ">
     </a><br>
     <a href="http://www.cvlibs.net/">Andreas Geiger</a><br>
     University of Tübingen and the MPI for Intelligent Systems
@@ -170,7 +170,7 @@ Full program will be coming soon with 30-min keynotes, panel discussion, challen
   
   <div style="width:22.5%">
     <a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-chiekoa">
-    <img alt="Chieko Asakawa" src="pics/chieko_asakawa.jpg"   height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    <img alt="Chieko Asakawa" src="pics/chieko_asakawa.jpg"    width = 100% style =  "border-radius: 50%; object-fit: cover; ">
     </a><br>
   <a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-chiekoa">Chieko Asakawa</a><br>
     Carnegie Mellon University and IBM
@@ -181,7 +181,7 @@ Full program will be coming soon with 30-min keynotes, panel discussion, challen
   
   <div style="width:22.5%">
     <a href="https://jonfroehlich.github.io/">
-    <img alt="Jon E. Froehlich" src="pics/jon_e_froehlich.jpg"   height="200" width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    <img alt="Jon E. Froehlich" src="pics/jon_e_froehlich.jpg"    width = 100% style =  "border-radius: 50%; object-fit: cover; ">
     </a><br>
   <a href="https://jonfroehlich.github.io/">Jon E. Froehlich</a><br>
     University of Washington
@@ -192,7 +192,7 @@ Full program will be coming soon with 30-min keynotes, panel discussion, challen
   
   <div style="width:22.5%">
     <a href="https://www.inclusivemobility.com/">
-    <img alt="Chandrika Jayant" src="pics/chandrika_jayant.jfif"  height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    <img alt="Chandrika Jayant" src="pics/chandrika_jayant.jfif"   width = 100% style =  "border-radius: 50%; object-fit: cover; ">
     </a><br>
   <a href="https://www.inclusivemobility.com/">Chandrika Jayant</a><br>
     Volkswagen Group of America
@@ -288,7 +288,7 @@ The challenge involves a synthetic instance segmentation benchmark incorporating
 <div style="display: flex">
   <div style="width:22.5%">
     <a href="https://twitter.com/jimuyang?lang=en">
-    <img alt="Jimuyang Zhang" src="pics/jimuyang_zhang.jpg" height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    <img alt="Jimuyang Zhang" src="pics/jimuyang_zhang.jpg"  width = 100% style =  "border-radius: 50%; object-fit: cover; ">
     </a><br>
     <a href="https://twitter.com/jimuyang?lang=en">Jimuyang Zhang</a><br>
     Boston University
@@ -299,7 +299,7 @@ The challenge involves a synthetic instance segmentation benchmark incorporating
    
   <div style="width:22.5%">
     <a href="">
-    <img alt="Zhongkai Shangguan" src="pics/placeholder.jpg"  height="200"   width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    <img alt="Zhongkai Shangguan" src="pics/placeholder.jpg"   width = 100% style =  "border-radius: 50%; object-fit: cover; ">
     </a><br>
   <a href="">Zhongkai Shangguan</a><br>
     Boston University
@@ -310,7 +310,7 @@ The challenge involves a synthetic instance segmentation benchmark incorporating
    
   <div style="width:22.5%">
     <a href="">
-    <img alt="Minglan Zheng" src="pics/placeholder.jpg"  height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    <img alt="Minglan Zheng" src="pics/placeholder.jpg"   width = 100% style =  "border-radius: 50%; object-fit: cover; ">
     </a><br>
   <a href="">Minglan Zheng</a><br>
     Boston University
