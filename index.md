@@ -281,10 +281,10 @@ Towards building a community of accessibility research in computer vision confer
   </div>
    
   <div style="width:22.5%">
-    <a href="sgzk@bu.edu">
+    <a href="mailto: sgzk@bu.edu" target="_blank">
     <img alt="Zhongkai Shangguan" src="pics/zhongkai_shangguan.png"   style =  "border-radius: 50%; object-fit: cover; width = 100% ">
     </a><br>
-  <a href="sgzk@bu.edu">Zhongkai Shangguan</a><br>
+  <a href="mailto: sgzk@bu.edu" target="_blank">Zhongkai Shangguan</a><br>
     Boston University
   </div>
   
@@ -292,10 +292,10 @@ Towards building a community of accessibility research in computer vision confer
   </div>
    
   <div style="width:22.5%">
-    <a href="mzheng27@bu.edu">
+    <a href="mailto: mzheng27@bu.edu" target="_blank">
     <img alt="Minglan Zheng" src="pics/minglan_zheng.png"   style =  "border-radius: 50%; object-fit: cover; width = 100% ">
     </a><br>
-  <a href="mzheng27@bu.edu">Minglan Zheng</a><br>
+  <a href="mailto: mzheng27@bu.edu" target="_blank">Minglan Zheng</a><br>
     Boston University
   </div>
   
