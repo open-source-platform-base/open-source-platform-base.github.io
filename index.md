@@ -265,12 +265,6 @@ Towards building a community of accessibility research in computer vision confer
 </div>
 <br>-->
 
-## Challenge
-
-<div style="text-align: justify">
-The challenge involves a synthethic instance segmentation benchmark incorporating use-cases of autonomous systems interacting with pedestrians with disabilities based on Zhang et al., X-World: Accessibility, Vision, and Autonomy Meet, ICCV, 2021 (<a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_X-World_Accessibility_Vision_and_Autonomy_Meet_ICCV_2021_paper.pdf">bit.ly/2X8sYoX</a>). The benchmark contains challenging accessibility-related person and object cateogries, such as `cane' and `wheelchair.' We aim to use the challenge to uncover research opportunities and spark the interest of computer vision and AI researchers working on more robust visual reasoning models for accessibility.
-</div>
-
 ## Challenge Organization
 
 <div style="display: flex">
@@ -286,10 +280,10 @@ The challenge involves a synthethic instance segmentation benchmark incorporatin
   </div>
    
   <div style="width:22.5%">
-    <a href="">
+    <a href="sgzk@bu.edu">
     <img alt="Zhongkai Shangguan" src="pics/zhongkai_shangguan.png"   style =  "border-radius: 50%; object-fit: cover; width = 100% ">
     </a><br>
-  <a href="">Zhongkai Shangguan</a><br>
+  <a href="sgzk@bu.edu">Zhongkai Shangguan</a><br>
     Boston University
   </div>
   
@@ -297,10 +291,10 @@ The challenge involves a synthethic instance segmentation benchmark incorporatin
   </div>
    
   <div style="width:22.5%">
-    <a href="">
+    <a href="mzheng27@bu.edu">
     <img alt="Minglan Zheng" src="pics/minglan_zheng.png"   style =  "border-radius: 50%; object-fit: cover; width = 100% ">
     </a><br>
-  <a href="">Minglan Zheng</a><br>
+  <a href="mzheng27@bu.edu">Minglan Zheng</a><br>
     Boston University
   </div>
   
@@ -314,6 +308,12 @@ The challenge involves a synthethic instance segmentation benchmark incorporatin
   <a href="http://ai.bu.edu/ksaenko.html#">Kate Saenko</a><br>
    Boston University
   </div> -->
+</div>
+
+## Challenge
+
+<div style="text-align: justify">
+The challenge involves a synthethic instance segmentation benchmark incorporating use-cases of autonomous systems interacting with pedestrians with disabilities based on Zhang et al., X-World: Accessibility, Vision, and Autonomy Meet, ICCV, 2021 (<a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_X-World_Accessibility_Vision_and_Autonomy_Meet_ICCV_2021_paper.pdf">bit.ly/2X8sYoX</a>). The benchmark contains challenging accessibility-related person and object cateogries, such as `cane' and `wheelchair.' We aim to use the challenge to uncover research opportunities and spark the interest of computer vision and AI researchers working on more robust visual reasoning models for accessibility.
 </div>
 
 ## Call for Papers
