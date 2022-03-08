@@ -11,7 +11,7 @@ layout: default
 
 # Overview
 <div style="text-align: justify">
-The overarching goal of this workshop is to gather researchers, students, and advocates who work at the intersection of accessibility, computer vision, and autonomous systems. We plan to use the workshop to identify challenges and pursue solutions for the current lack of shared and principled development tools for data-driven vision-based accessibility systems. For instance, there is a general lack of vision-based benchmarks and methods relevant to accessibility (e.g., people with disabilities and mobility aids are currently mostly absent from large-scale datasets in pedestrian detection). More broadly, our workshop will provide a unique opportunity for fostering a mutual discussion between the accessibility community, computer vision, and robotics researchers. 
+The overarching goal of this workshop is to gather researchers, students, and advocates who work at the intersection of accessibility, computer vision, and autonomous systems. We plan to use the workshop to identify challenges and pursue solutions for the current lack of shared and principled development tools for data-driven vision-based accessibility systems. For instance, there is a general lack of vision-based benchmarks and methods relevant to accessibility (e.g., people with disabilities and mobility aids are currently mostly absent from large-scale datasets in pedestrian detection). Our workshop will provide a unique opportunity for fostering a mutual discussion between accessibility, computer vision, and robotics researchers and practitioners.
 </div>
 
 # Invited Speakers
@@ -265,6 +265,7 @@ Towards building a community of accessibility research in computer vision confer
 </div>
 <br>-->
 
+
 ## Challenge Organization
 
 <div style="display: flex">
@@ -313,46 +314,61 @@ Towards building a community of accessibility research in computer vision confer
 ## Challenge
 
 <div style="text-align: justify">
-The challenge involves a synthethic instance segmentation benchmark incorporating use-cases of autonomous systems interacting with pedestrians with disabilities based on Zhang et al., X-World: Accessibility, Vision, and Autonomy Meet, ICCV, 2021 (<a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_X-World_Accessibility_Vision_and_Autonomy_Meet_ICCV_2021_paper.pdf">bit.ly/2X8sYoX</a>). The benchmark contains challenging accessibility-related person and object cateogries, such as `cane' and `wheelchair.' We aim to use the challenge to uncover research opportunities and spark the interest of computer vision and AI researchers working on more robust visual reasoning models for accessibility.
+The challenge involves a synthetic instance segmentation benchmark incorporating use-cases of autonomous systems interacting with pedestrians with disabilities (see Zhang et al., X-World: Accessibility, Vision, and Autonomy Meet, ICCV 2021 <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_X-World_Accessibility_Vision_and_Autonomy_Meet_ICCV_2021_paper.pdf">bit.ly/2X8sYoX</a>). The benchmark contains challenging accessibility-related person and object categories, such as `cane' and `wheelchair.' We aim to use the challenge to uncover research opportunities and spark the interest of computer vision and AI researchers working on more robust visual reasoning models for accessibility. 
+  
+<div class = "center">
+    <img alt="fig2" src="pics/i1.jpg" >
+    <p>An example from the instance segmentation challenge for perceiving people with mobility aids.</p>
 </div>
+  <br>
+  The team with the top performing submission will be invited to give short talks during the workshop and will receive a financial award of <b>$500</b> and a <a href="https://store.opencv.ai/products/oak-d">OAK—D camera</a>. 
+  <br><br>
+  Training dataset: <a href="https://drive.google.com/drive/folders/1r8ZEzJLYjWy4J-0DYcvFRaJD7A6zWvoL?usp=sharing">Download(30 GB)</a>
+  <br>
+  Testing dataset: Download (will be released in March)
+  
+</div>
+
 
 ## Call for Papers
 
 <div style="text-align: justify">
-We encourage submission of relevant research (including work in progress) as extended abstracts for the poster session and workshop discussion (up to 4 pages in CVPR format).
+We encourage submission of relevant research (including work in progress, novel perspectives, formative studies, benchmarks, methods) as extended abstracts for the poster session and workshop discussion (up to 4 pages in CVPR format). 
 Topics of interests by this workshop include, but are not limited to:
 
-1. AI for Accessibility
-2. Accessibility-Centered Computer Vision Tasks and Datasets 
-3. Data-Driven Accessibility Tools, Metrics and Evaluation Frameworks
-4. Practical Challenges in Ability-Based Assistive Technologies 
-5. Accessibility in Robotics and Autonomous Vehicles
-6. Long-Tail and Low-Shot Recognition of Accessibility-Based Tasks
-7. Accessible Homes, Hospitals, Cities, Infrastructure, Transportation 
-8. Crowdsourcing and Annotation Tools for Vision and Accessibility
-9. Empirical Real-World Studies in Inclusive System Design
-10. Assistive Human-Robot Interaction 
-11. Remote Accessibility Systems 
-12. Multi-Modal (Audio, Visual, Inertial, Haptic) Learning and Interaction
-13. Accessible Mobile and Information Technologies
-14. Virtual, Augmented, and Mixed Reality for Accessibility
-15. Novel Designs for Robotic, Wearable and Smartphone-Based Assistance
-16. Intelligent Assistive Embodied and Navigational Agents 
-17. Socially Assistive Mobile Applications
-18. Human-in-the-Loop Machine Learning Techniques
-19. Accessible Tutoring and Education
-20. Personalization for Diverse Physical, Motor, and Cognitive Abilities
-21. Embedded Hardware-Optimized Assistive Systems
-22. Intelligent Robotic Wheelchairs
-23. Medical and Social and Cultural Models of Disability
-24. New Frameworks for Taxonomies and Terminology 
+  <ol>
+  <li>AI for Accessibility</li>
+  <li>Accessibility-Centered Computer Vision Tasks and Datasets</li>
+  <li>Data-Driven Accessibility Tools, Metrics and Evaluation Frameworks</li>
+  <li>Practical Challenges in Ability-Based Assistive Technologies</li>  
+  <li>Accessibility in Robotics and Autonomous Vehicles</li>  
+  <li>Long-Tail and Low-Shot Recognition of Accessibility-Based Tasks</li>  
+  <li>Accessible Homes, Hospitals, Cities, Infrastructure, Transportation</li>   
+  <li>Crowdsourcing and Annotation Tools for Vision and Accessibility</li>  
+  <li>Empirical Real-World Studies in Inclusive System Design</li>  
+  <li>Assistive Human-Robot Interaction</li>  
+  <li>Remote Accessibility Systems</li>   
+  <li>Multi-Modal (Audio, Visual, Inertial, Haptic) Learning and Interaction</li>  
+  <li>Accessible Mobile and Information Technologies</li>  
+  <li>Virtual, Augmented, and Mixed Reality for Accessibility</li>  
+  <li>Novel Designs for Robotic, Wearable and Smartphone-Based Assistance</li>  
+  <li>Intelligent Assistive Embodied and Navigational Agents</li>   
+  <li>Socially Assistive Mobile Applications</li>  
+  <li>Human-in-the-Loop Machine Learning Techniques</li>  
+  <li>Accessible Tutoring and Education</li>  
+  <li>Personalization for Diverse Physical, Motor, and Cognitive Abilities</li>  
+  <li>Embedded Hardware-Optimized Assistive Systems</li>  
+  <li>Intelligent Robotic Wheelchairs</li>  
+  <li>Medical and Social and Cultural Models of Disability</li>  
+  <li>New Frameworks for Taxonomies and Terminology</li>  
+    </ol>
 </div>
 
 ## Important workshop dates
-- Workshop abstract submission deadline: <strong>May 31, 2022.</strong>
-- Camera ready deadline: <strong>June 10, 2022.</strong>
-- Challenge release: <strong>March 7, 2022.</strong>
+- Challenge release: <strong>February 27, 2022.</strong>
+- Workshop abstract submission deadline: <strong>June 10, 2022.</strong> 
 - Challenge submission deadline: <strong>June 10, 2022.</strong>
+- Abstract notification: <strong>June 13, 2022.</strong>
 - Challenge winner announcement: <strong>June 20, 2022.</strong>
 
 
@@ -380,5 +396,4 @@ Topics of interests by this workshop include, but are not limited to:
       
     </div>
   </div--> 
-  --!>
 
