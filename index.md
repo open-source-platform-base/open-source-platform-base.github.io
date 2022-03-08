@@ -82,11 +82,11 @@ The overarching goal of this workshop is to gather researchers, students, and ad
   <div style="width:2.5%">
   </div>
   <div style="width:22.5%">
-    <a href="https://www.microsoft.com/en-us/research/people/oskoller/">
-    <img alt="speaker7" src="pics/oscar_koller.png" height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    <a href="https://https://giarre.wordpress.com/">
+    <img alt="speaker7" src="pics/laura_giarré.png" height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
     </a><br>
-    <a href="https://www.microsoft.com/en-us/research/people/oskoller/"> Oscar Koller </a><br>
-    Microsoft, Speech and Language Group
+    <a href="https://giarre.wordpress.com/"> Laura Giarré </a><br>
+    University of Modena and Reggio Emilia, NTNU 
   </div>
 </div>
  
