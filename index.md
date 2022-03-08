@@ -287,7 +287,7 @@ The challenge involves a synthethic instance segmentation benchmark incorporatin
    
   <div style="width:22.5%">
     <a href="">
-    <img alt="Zhongkai Shangguan" src="pics/placeholder.jpg"   style =  "border-radius: 50%; object-fit: cover; width = 100% ">
+    <img alt="Zhongkai Shangguan" src="pics/zhongkai_shangguan.png"   style =  "border-radius: 50%; object-fit: cover; width = 100% ">
     </a><br>
   <a href="">Zhongkai Shangguan</a><br>
     Boston University
@@ -298,7 +298,7 @@ The challenge involves a synthethic instance segmentation benchmark incorporatin
    
   <div style="width:22.5%">
     <a href="">
-    <img alt="Minglan Zheng" src="pics/placeholder.jpg"   style =  "border-radius: 50%; object-fit: cover; width = 100% ">
+    <img alt="Minglan Zheng" src="pics/minglan_zheng.png"   style =  "border-radius: 50%; object-fit: cover; width = 100% ">
     </a><br>
   <a href="">Minglan Zheng</a><br>
     Boston University
