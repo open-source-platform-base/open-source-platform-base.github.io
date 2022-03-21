@@ -270,13 +270,12 @@ Towards building a community of accessibility research in computer vision confer
 
 <div style="display: flex">
   <div style="width:22.5%">
-    <a href="https://twitter.com/jimuyang?lang=en">
+    <a href="mailto: zhangjim@bu.edu">
     <img alt="Jimuyang Zhang" src="pics/jimuyang_zhang.jpg"  style =  "border-radius: 50%; object-fit: cover; width = 100% ">
     </a><br>
-    <a href="https://twitter.com/jimuyang?lang=en">Jimuyang Zhang</a><br>
+    <a href="mailto: zhangjim@bu.edu">Jimuyang Zhang</a><br>
     Boston University
   </div>
-  
   <div style="width:2.5%">
   </div>
    
