@@ -199,6 +199,51 @@ Full program will be coming soon with 30-min keynotes, panel discussion, challen
   </div>
 </div>
 
+<div style="display: flex">
+  <div style="width:22.5%">
+    <a href="https://ischool.umd.edu/directory/hernisa-kacorri/">
+    <img alt="Hernisa Kacorri" src="pics/hernisa_kacorri.jpg"   style =  "border-radius: 50%; object-fit: cover;  width = 100% ">
+    </a><br>
+    <a href="https://ischool.umd.edu/directory/hernisa-kacorri//">Hernisa Kacorri</a><br>
+    University of Maryland
+  </div>
+  
+  <div style="width:2.5%">
+  </div>
+  
+  <!--div style="width:22.5%">
+    <a href="https://staging-temp-site.github.io/staging-temp-site.gitub.io/">
+    <img alt="name_16" src="pics/placeholder.jpg"  height="200" style =  "border-radius: 50%; object-fit: cover; ">
+    </a><br>
+  <a href="https://staging-temp-site.github.io/staging-temp-site.gitub.io/">[Name]</a><br>
+    [Institution]
+  </div>
+
+  <div style="width:2.5%">
+  </div>
+  
+  <div style="width:22.5%">
+    <a href="https://staging-temp-site.github.io/staging-temp-site.gitub.io/">
+    <img alt="name_16" src="pics/placeholder.jpg"  height="200" style =  "border-radius: 50%; object-fit: cover; ">
+    </a><br>
+  <a href="https://staging-temp-site.github.io/staging-temp-site.gitub.io/">[Name]</a><br>
+    [Institution]
+  </div>
+  
+  <div style="width:2.5%">
+  </div>
+  
+  <div style="width:22.5%">
+   <a href="https://staging-temp-site.github.io/staging-temp-site.gitub.io/">
+    <img alt="name_16" src="pics/placeholder.jpg"  height="200" style =  "border-radius: 50%; object-fit: cover; ">
+    </a><br>
+  <a href="https://staging-temp-site.github.io/staging-temp-site.gitub.io/">[Name]</a><br>
+    [Institution]
+  </div-->
+</div>
+
+
+
 
 <!-- ## Advising committee -->
 
