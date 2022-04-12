@@ -114,7 +114,11 @@ The overarching goal of this workshop is to gather researchers, students, and ad
 Full program will be coming soon with 30-min keynotes, panel discussion, challenge results and winners, and poster session.
 
 ## Organizers
-<div style="display: center">
+  
+<div style="display: flex">
+  <div style="width:10%">
+  </div>
+  
   <div style="width:17.5%">
     <a href="https://eshed1.github.io/">
     <img alt="Eshed Ohn-Bar" src="pics/eshed_ohn_bar.jpg"  style =  "border-radius: 50%; object-fit: cover; width = 100% ">
@@ -137,7 +141,7 @@ Full program will be coming soon with 30-min keynotes, panel discussion, challen
   <div style="width:2.5%">
   </div>
    
-  <div style="width:17.5%%">
+  <div style="width:17.5%">
     <a href="http://www.cs.cmu.edu/~kkitani/">
     <img alt="Kris Kitani" src="pics/kitani_kris.jpg"   style =  "border-radius: 50%; object-fit: cover; width = 100% ">
     </a><br>
@@ -157,7 +161,7 @@ Full program will be coming soon with 30-min keynotes, panel discussion, challen
   </div>
 </div>
 
-<div style="display: center">
+<div style="display: flex">
   <div style="width:17.5%">
     <a href="http://www.cvlibs.net/">
     <img alt="Andreas Geiger" src="pics/andreas_geiger.jpg"   style =  "border-radius: 50%; object-fit: cover;  width = 100% ">
