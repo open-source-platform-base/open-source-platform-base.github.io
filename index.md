@@ -114,8 +114,8 @@ The overarching goal of this workshop is to gather researchers, students, and ad
 Full program will be coming soon with 30-min keynotes, panel discussion, challenge results and winners, and poster session.
 
 ## Organizers
-<div style="display: flex">
-  <div style="width:22.5%">
+<div style="display: center">
+  <div style="width:17.5%">
     <a href="https://eshed1.github.io/">
     <img alt="Eshed Ohn-Bar" src="pics/eshed_ohn_bar.jpg"  style =  "border-radius: 50%; object-fit: cover; width = 100% ">
     </a><br>
@@ -126,7 +126,7 @@ Full program will be coming soon with 30-min keynotes, panel discussion, challen
   <div style="width:2.5%">
   </div>
    
-  <div style="width:22.5%">
+  <div style="width:17.5%">
     <a href="https://home.cs.colorado.edu/~DrG/AboutMe.html">
     <img alt="Danna Gurari" src="pics/danna_gurari.jpg" style =  "border-radius: 50%; object-fit: cover;  width = 100% ">
     </a><br>
@@ -137,7 +137,7 @@ Full program will be coming soon with 30-min keynotes, panel discussion, challen
   <div style="width:2.5%">
   </div>
    
-  <div style="width:22.5%">
+  <div style="width:17.5%%">
     <a href="http://www.cs.cmu.edu/~kkitani/">
     <img alt="Kris Kitani" src="pics/kitani_kris.jpg"   style =  "border-radius: 50%; object-fit: cover; width = 100% ">
     </a><br>
@@ -148,7 +148,7 @@ Full program will be coming soon with 30-min keynotes, panel discussion, challen
   <div style="width:2.5%">
   </div>
    
-  <div style="width:22.5%">
+  <div style="width:17.5%">
     <a href="http://ai.bu.edu/ksaenko.html#">
     <img alt="Kate Saenko" src="pics/kate_saenko.png"    style =  "border-radius: 50%; object-fit: cover;  width = 100%">
     </a><br>
@@ -157,8 +157,8 @@ Full program will be coming soon with 30-min keynotes, panel discussion, challen
   </div>
 </div>
 
-<div style="display: flex">
-  <div style="width:22.5%">
+<div style="display: center">
+  <div style="width:17.5%">
     <a href="http://www.cvlibs.net/">
     <img alt="Andreas Geiger" src="pics/andreas_geiger.jpg"   style =  "border-radius: 50%; object-fit: cover;  width = 100% ">
     </a><br>
@@ -169,7 +169,7 @@ Full program will be coming soon with 30-min keynotes, panel discussion, challen
   <div style="width:2.5%">
   </div>
   
-  <div style="width:22.5%">
+  <div style="width:17.5%">
     <a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-chiekoa">
     <img alt="Chieko Asakawa" src="pics/chieko_asakawa.jpg"   style =  "border-radius: 50%; object-fit: cover;  width = 100% ">
     </a><br>
@@ -180,7 +180,7 @@ Full program will be coming soon with 30-min keynotes, panel discussion, challen
   <div style="width:2.5%">
   </div>
   
-  <div style="width:22.5%">
+  <div style="width:17.5%">
     <a href="https://jonfroehlich.github.io/">
     <img alt="Jon E. Froehlich" src="pics/jon_e_froehlich.jpg"    style =  "border-radius: 50%; object-fit: cover; width = 100% ">
     </a><br>
@@ -191,56 +191,26 @@ Full program will be coming soon with 30-min keynotes, panel discussion, challen
   <div style="width:2.5%">
   </div>
   
-  <div style="width:22.5%">
+  <div style="width:17.5%">
     <a href="https://www.inclusivemobility.com/">
     <img alt="Chandrika Jayant" src="pics/chandrika_jayant.jfif"    style =  "border-radius: 50%; object-fit: cover; width = 100%">
     </a><br>
   <a href="https://www.inclusivemobility.com/">Chandrika Jayant</a><br>
     Volkswagen Group of America
   </div>
-</div>
 
-<div style="display: flex">
-  <div style="width:22.5%">
+<div style="width:2.5%">
+  </div>
+  
+  <div style="width:17.5%">
     <a href="https://ischool.umd.edu/directory/hernisa-kacorri/">
     <img alt="Hernisa Kacorri" src="pics/hernisa_kacorri.jpg"   style =  "border-radius: 50%; object-fit: cover;  width = 100% ">
     </a><br>
     <a href="https://ischool.umd.edu/directory/hernisa-kacorri//">Hernisa Kacorri</a><br>
     University of Maryland
   </div>
-  
   <div style="width:2.5%">
   </div>
-  
-  <!--div style="width:22.5%">
-    <a href="https://staging-temp-site.github.io/staging-temp-site.gitub.io/">
-    <img alt="name_16" src="pics/placeholder.jpg"  height="200" style =  "border-radius: 50%; object-fit: cover; ">
-    </a><br>
-  <a href="https://staging-temp-site.github.io/staging-temp-site.gitub.io/">[Name]</a><br>
-    [Institution]
-  </div>
-
-  <div style="width:2.5%">
-  </div>
-  
-  <div style="width:22.5%">
-    <a href="https://staging-temp-site.github.io/staging-temp-site.gitub.io/">
-    <img alt="name_16" src="pics/placeholder.jpg"  height="200" style =  "border-radius: 50%; object-fit: cover; ">
-    </a><br>
-  <a href="https://staging-temp-site.github.io/staging-temp-site.gitub.io/">[Name]</a><br>
-    [Institution]
-  </div>
-  
-  <div style="width:2.5%">
-  </div>
-  
-  <div style="width:22.5%">
-   <a href="https://staging-temp-site.github.io/staging-temp-site.gitub.io/">
-    <img alt="name_16" src="pics/placeholder.jpg"  height="200" style =  "border-radius: 50%; object-fit: cover; ">
-    </a><br>
-  <a href="https://staging-temp-site.github.io/staging-temp-site.gitub.io/">[Name]</a><br>
-    [Institution]
-  </div-->
 </div>
 
 
